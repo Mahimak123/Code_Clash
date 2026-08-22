@@ -6,8 +6,8 @@ Gemini's structured JSON output mode (response_schema), so you always get
 back valid, predictable JSON — no manual parsing/regex needed.
 
 Setup:
-    pip install google-generativeai
-    export GEMINI_API_KEY="your-key-here"
+    pip install -r requirements.txt
+    copy .env.example .env   # then add your GEMINI_API_KEY
 
 Usage:
     python gemini_analyzer.py                          # analyze full CSV
@@ -19,7 +19,12 @@ import json
 import time
 import argparse
 import csv
+from pathlib import Path
+
 import google.generativeai as genai
+from dotenv import load_dotenv
+
+load_dotenv(Path(__file__).resolve().parent / ".env")
 
 # --- Config ---
 MODEL_NAME = "gemini-3.5-flash-lite"  # fast + cheap, good for high-volume classification
@@ -49,6 +54,36 @@ RESPONSE_SCHEMA = {
     "required": ["sentiment", "confidence", "topic", "emotion", "reasoning"],
 }
 
+TOPIC_DEFINITIONS = """
+- Streaming: general streaming experience/quality (not a specific technical symptom)
+- Buffering: explicitly mentions buffering, loading spinner, or playback stalling — prefer this over "Streaming" when the post names the specific symptom
+- Payments: general payment topic (methods, billing, cost)
+- Payment Failure: a payment attempt that failed or errored
+- Food Quality: taste, freshness, food condition
+- Delivery: delivery process/experience
+- Late Delivery: delivery that missed its time — prefer this over "Delivery" when lateness is the specific complaint
+- Tracking: order/delivery tracking accuracy or availability
+- UX: app/website usability, design, navigation
+- App Crash: app crashing or freezing
+- Outage: service being down/unavailable entirely
+- Customer Support: interactions with support/help agents
+- Missing Order: order not received / wrong order
+- Other: doesn't fit any category above
+"""
+
+EMOTION_DEFINITIONS = """
+- Satisfaction: happy with the experience, praising something
+- Concern: worried something might be, or become, a problem — often phrased as a warning or "hope this doesn't happen"
+- Curiosity: a genuine, neutral question asked out of interest, with no worry or complaint implied (e.g., "does anyone know how X works?")
+- Churn Intent: explicitly considering leaving/switching to a competitor
+- Frustration: annoyed but not necessarily angry — mild-to-moderate negative reaction
+- Anger: strong negative emotion, often with intense language
+- Abandonment: giving up on using the product/service, already decided to stop
+- Neutral: no clear emotional charge either way
+
+Disambiguation rule: if a post asks a question WITHOUT expressing worry or a problem, classify as Curiosity, not Concern. If the question itself implies something might be wrong (e.g., "is anyone else's app crashing?"), classify as Concern.
+"""
+
 PROMPT_TEMPLATE = """You are a social media sentiment analyst for a brand monitoring system.
 
 Analyze this post and classify it.
@@ -57,11 +92,17 @@ Post text: "{text}"
 Brand/keyword mentioned: {brand}
 Platform: {platform}
 
+Topic definitions:
+{topic_definitions}
+
+Emotion definitions:
+{emotion_definitions}
+
 Rules:
 - sentiment: Positive, Neutral, or Negative — based on overall tone toward the brand.
 - confidence: your confidence in the sentiment label, from 0.0 to 1.0.
-- topic: pick the single best-fitting topic from this exact list: {topics}
-- emotion: pick the single best-fitting emotion from this exact list: {emotions}
+- topic: pick the single best-fitting topic using the definitions above.
+- emotion: pick the single best-fitting emotion using the definitions above, applying the disambiguation rule for questions.
 - reasoning: one short phrase (under 12 words) explaining why you chose this sentiment.
 
 Return ONLY the JSON object, nothing else."""
@@ -84,8 +125,11 @@ def get_model():
 def analyze_post(model, text: str, brand: str = "", platform: str = "") -> dict:
     """Sends one post to Gemini and returns the parsed analysis as a dict."""
     prompt = PROMPT_TEMPLATE.format(
-        text=text, brand=brand or "unknown", platform=platform or "unknown",
-        topics=", ".join(TOPICS), emotions=", ".join(EMOTIONS),
+        text=text,
+        brand=brand or "unknown",
+        platform=platform or "unknown",
+        topic_definitions=TOPIC_DEFINITIONS.strip(),
+        emotion_definitions=EMOTION_DEFINITIONS.strip(),
     )
     try:
         response = model.generate_content(prompt)
