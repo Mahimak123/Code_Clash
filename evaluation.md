@@ -86,20 +86,7 @@ So most of the run did **not** reflect model quality — it reflected **API fail
 
 ---
 
-## Accuracy results (112 posts from example run)
 
-Compared against ground truth in `social_crisis_monitor_dataset.csv`.
-
-### All 112 posts (including fallbacks)
-
-| Metric | Accuracy | Correct |
-|--------|----------|---------|
-| Sentiment | **57.1%** | 64/112 |
-| Topic | **24.1%** | 27/112 |
-| Emotion | **20.5%** | 23/112 |
-| All 3 fields | **17.9%** | 20/112 |
-
-These numbers are **misleadingly low** because 80 posts were error fallbacks, not real predictions.
 
 ### Successful API calls only (32 posts)
 
