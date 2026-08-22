@@ -1,0 +1,770 @@
+post_id,timestamp,platform,brand,matched_keyword,text,sentiment,confidence,topic,emotion,engagement,incident_id,incident_phase,negative_flag,hour_bucket
+P0019,2026-08-22 09:00:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.91,Streaming,Concern,69,NONE,Normal,0,2026-08-22 09:00
+P0001,2026-08-22 09:01:00,Instagram,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.95,Payments,Satisfaction,38,NONE,Normal,0,2026-08-22 09:00
+P0040,2026-08-22 09:03:00,Reddit,FoodRush,FoodRush,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,18,NONE,Normal,0,2026-08-22 09:00
+P0035,2026-08-22 09:03:00,Reddit,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.85,Delivery,Satisfaction,106,NONE,Normal,0,2026-08-22 09:00
+P0007,2026-08-22 09:05:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.94,Payments,Concern,51,NONE,Normal,0,2026-08-22 09:00
+P0023,2026-08-22 09:05:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.84,Streaming,Satisfaction,107,NONE,Normal,0,2026-08-22 09:00
+P0026,2026-08-22 09:07:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.88,Streaming,Concern,33,NONE,Normal,0,2026-08-22 09:00
+P0038,2026-08-22 09:09:00,X,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.98,Tracking,Curiosity,42,NONE,Normal,0,2026-08-22 09:00
+P0011,2026-08-22 09:10:00,YouTube,PayWave,PayWave,The app is pretty easy to use.,Positive,0.94,UX,Satisfaction,44,NONE,Normal,0,2026-08-22 09:00
+P0005,2026-08-22 09:13:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.84,UX,Satisfaction,21,NONE,Normal,0,2026-08-22 09:00
+P0029,2026-08-22 09:13:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.86,Tracking,Curiosity,78,NONE,Normal,0,2026-08-22 09:00
+P0013,2026-08-22 09:13:00,YouTube,PayWave,payments,Payment took a little longer than usual.,Neutral,0.84,Payments,Concern,55,NONE,Normal,0,2026-08-22 09:00
+P0012,2026-08-22 09:14:00,Reddit,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.83,Payments,Satisfaction,61,NONE,Normal,0,2026-08-22 09:00
+P0033,2026-08-22 09:15:00,X,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.84,Delivery,Satisfaction,78,NONE,Normal,0,2026-08-22 09:00
+P0014,2026-08-22 09:15:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.88,UX,Satisfaction,64,NONE,Normal,0,2026-08-22 09:00
+P0034,2026-08-22 09:17:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.96,Food Quality,Satisfaction,19,NONE,Normal,0,2026-08-22 09:00
+P0009,2026-08-22 09:17:00,YouTube,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.88,Payments,Concern,51,NONE,Normal,0,2026-08-22 09:00
+P0031,2026-08-22 09:22:00,YouTube,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.97,Tracking,Curiosity,57,NONE,Normal,0,2026-08-22 09:00
+P0037,2026-08-22 09:24:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.94,Delivery,Satisfaction,46,NONE,Normal,0,2026-08-22 09:00
+P0041,2026-08-22 09:25:00,Reddit,FoodRush,FoodRush,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,41,NONE,Normal,0,2026-08-22 09:00
+P0036,2026-08-22 09:30:00,X,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.85,Tracking,Curiosity,56,NONE,Normal,0,2026-08-22 09:00
+P0015,2026-08-22 09:32:00,YouTube,StreamBox,StreamBox,The new interface looks clean.,Positive,0.97,UX,Satisfaction,106,NONE,Normal,0,2026-08-22 09:00
+P0017,2026-08-22 09:33:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.94,Streaming,Concern,75,NONE,Normal,0,2026-08-22 09:00
+P0021,2026-08-22 09:34:00,Reddit,StreamBox,StreamBox,The new interface looks clean.,Positive,0.84,UX,Satisfaction,72,NONE,Normal,0,2026-08-22 09:00
+P0003,2026-08-22 09:35:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.9,Payments,Satisfaction,63,NONE,Normal,0,2026-08-22 09:00
+P0024,2026-08-22 09:35:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.98,Streaming,Concern,38,NONE,Normal,0,2026-08-22 09:00
+P0002,2026-08-22 09:37:00,YouTube,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.86,Payments,Satisfaction,13,NONE,Normal,0,2026-08-22 09:00
+P0027,2026-08-22 09:37:00,X,StreamBox,StreamBox,The new interface looks clean.,Positive,0.86,UX,Satisfaction,19,NONE,Normal,0,2026-08-22 09:00
+P0006,2026-08-22 09:38:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.91,Payments,Concern,10,NONE,Normal,0,2026-08-22 09:00
+P0016,2026-08-22 09:40:00,X,StreamBox,StreamBox,The new interface looks clean.,Positive,0.89,UX,Satisfaction,86,NONE,Normal,0,2026-08-22 09:00
+P0042,2026-08-22 09:42:00,Instagram,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.93,Tracking,Curiosity,38,NONE,Normal,0,2026-08-22 09:00
+P0008,2026-08-22 09:42:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.97,Payments,Satisfaction,20,NONE,Normal,0,2026-08-22 09:00
+P0010,2026-08-22 09:42:00,Instagram,PayWave,PayWave,The app is pretty easy to use.,Positive,0.91,UX,Satisfaction,87,NONE,Normal,0,2026-08-22 09:00
+P0032,2026-08-22 09:43:00,Reddit,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.96,Delivery,Satisfaction,61,NONE,Normal,0,2026-08-22 09:00
+P0018,2026-08-22 09:43:00,Instagram,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.89,Streaming,Satisfaction,24,NONE,Normal,0,2026-08-22 09:00
+P0025,2026-08-22 09:45:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.89,UX,Satisfaction,95,NONE,Normal,0,2026-08-22 09:00
+P0039,2026-08-22 09:47:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.91,Delivery,Satisfaction,16,NONE,Normal,0,2026-08-22 09:00
+P0004,2026-08-22 09:51:00,Reddit,PayWave,payments,Payment took a little longer than usual.,Neutral,0.88,Payments,Concern,25,NONE,Normal,0,2026-08-22 09:00
+P0030,2026-08-22 09:51:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.84,Tracking,Curiosity,29,NONE,Normal,0,2026-08-22 09:00
+P0028,2026-08-22 09:55:00,Instagram,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.87,Streaming,Satisfaction,75,NONE,Normal,0,2026-08-22 09:00
+P0020,2026-08-22 09:55:00,Instagram,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.85,Streaming,Satisfaction,87,NONE,Normal,0,2026-08-22 09:00
+P0022,2026-08-22 09:56:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.86,Streaming,Concern,35,NONE,Normal,0,2026-08-22 09:00
+P0077,2026-08-22 10:03:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.84,Tracking,Curiosity,20,NONE,Normal,0,2026-08-22 10:00
+P0045,2026-08-22 10:04:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.98,Payments,Satisfaction,43,NONE,Normal,0,2026-08-22 10:00
+P0082,2026-08-22 10:08:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.94,Delivery,Satisfaction,59,NONE,Normal,0,2026-08-22 10:00
+P0074,2026-08-22 10:15:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.97,Delivery,Satisfaction,68,NONE,Normal,0,2026-08-22 10:00
+P0043,2026-08-22 10:15:00,Instagram,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.93,Payments,Concern,55,NONE,Normal,0,2026-08-22 10:00
+P0065,2026-08-22 10:16:00,Reddit,StreamBox,StreamBox,The new interface looks clean.,Positive,0.88,UX,Satisfaction,10,NONE,Normal,0,2026-08-22 10:00
+P0049,2026-08-22 10:17:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.85,UX,Satisfaction,101,NONE,Normal,0,2026-08-22 10:00
+P0055,2026-08-22 10:19:00,Instagram,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.94,Payments,Satisfaction,55,NONE,Normal,0,2026-08-22 10:00
+P0070,2026-08-22 10:19:00,Instagram,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.9,Streaming,Satisfaction,65,NONE,Normal,0,2026-08-22 10:00
+P0064,2026-08-22 10:22:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.89,Streaming,Concern,60,NONE,Normal,0,2026-08-22 10:00
+P0062,2026-08-22 10:22:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.98,Streaming,Concern,73,NONE,Normal,0,2026-08-22 10:00
+P0060,2026-08-22 10:22:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.82,Streaming,Concern,34,NONE,Normal,0,2026-08-22 10:00
+P0056,2026-08-22 10:22:00,YouTube,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.99,Payments,Satisfaction,40,NONE,Normal,0,2026-08-22 10:00
+P0059,2026-08-22 10:24:00,Reddit,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.96,Streaming,Satisfaction,38,NONE,Normal,0,2026-08-22 10:00
+P0061,2026-08-22 10:25:00,Instagram,StreamBox,StreamBox,The new interface looks clean.,Positive,0.98,UX,Satisfaction,120,NONE,Normal,0,2026-08-22 10:00
+P0083,2026-08-22 10:26:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.89,Delivery,Satisfaction,79,NONE,Normal,0,2026-08-22 10:00
+P0044,2026-08-22 10:29:00,Instagram,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.9,Payments,Concern,14,NONE,Normal,0,2026-08-22 10:00
+P0050,2026-08-22 10:32:00,YouTube,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.84,Payments,Concern,37,NONE,Normal,0,2026-08-22 10:00
+P0067,2026-08-22 10:32:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.89,Streaming,Concern,57,NONE,Normal,0,2026-08-22 10:00
+P0054,2026-08-22 10:34:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.89,UX,Satisfaction,84,NONE,Normal,0,2026-08-22 10:00
+P0053,2026-08-22 10:35:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.98,Payments,Concern,19,NONE,Normal,0,2026-08-22 10:00
+P0068,2026-08-22 10:35:00,X,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.93,Streaming,Concern,29,NONE,Normal,0,2026-08-22 10:00
+P0047,2026-08-22 10:39:00,Reddit,PayWave,payments,Payment took a little longer than usual.,Neutral,0.98,Payments,Concern,75,NONE,Normal,0,2026-08-22 10:00
+P0052,2026-08-22 10:40:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.91,UX,Satisfaction,104,NONE,Normal,0,2026-08-22 10:00
+P0072,2026-08-22 10:42:00,Reddit,FoodRush,food_quality,The food was packed really well.,Positive,0.84,Food Quality,Satisfaction,75,NONE,Normal,0,2026-08-22 10:00
+P0078,2026-08-22 10:42:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.96,Tracking,Curiosity,61,NONE,Normal,0,2026-08-22 10:00
+P0066,2026-08-22 10:42:00,Instagram,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.94,Streaming,Satisfaction,94,NONE,Normal,0,2026-08-22 10:00
+P0071,2026-08-22 10:43:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.95,Tracking,Curiosity,70,NONE,Normal,0,2026-08-22 10:00
+P0073,2026-08-22 10:43:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.85,Food Quality,Satisfaction,113,NONE,Normal,0,2026-08-22 10:00
+P0069,2026-08-22 10:43:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.89,Streaming,Concern,77,NONE,Normal,0,2026-08-22 10:00
+P0075,2026-08-22 10:45:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.85,Food Quality,Satisfaction,61,NONE,Normal,0,2026-08-22 10:00
+P0081,2026-08-22 10:45:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.87,Delivery,Satisfaction,44,NONE,Normal,0,2026-08-22 10:00
+P0058,2026-08-22 10:51:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.95,Streaming,Concern,39,NONE,Normal,0,2026-08-22 10:00
+P0051,2026-08-22 10:53:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.88,Payments,Concern,10,NONE,Normal,0,2026-08-22 10:00
+P0080,2026-08-22 10:53:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.87,Food Quality,Satisfaction,72,NONE,Normal,0,2026-08-22 10:00
+P0084,2026-08-22 10:53:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.97,Food Quality,Satisfaction,108,NONE,Normal,0,2026-08-22 10:00
+P0048,2026-08-22 10:56:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.95,Payments,Satisfaction,24,NONE,Normal,0,2026-08-22 10:00
+P0063,2026-08-22 10:56:00,Instagram,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.83,Streaming,Satisfaction,84,NONE,Normal,0,2026-08-22 10:00
+P0057,2026-08-22 10:56:00,YouTube,StreamBox,ux,The new interface looks clean.,Positive,0.95,UX,Satisfaction,32,NONE,Normal,0,2026-08-22 10:00
+P0046,2026-08-22 10:56:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.89,Payments,Satisfaction,46,NONE,Normal,0,2026-08-22 10:00
+P0076,2026-08-22 10:57:00,Reddit,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.96,Delivery,Satisfaction,38,NONE,Normal,0,2026-08-22 10:00
+P0079,2026-08-22 10:57:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.86,Tracking,Curiosity,65,NONE,Normal,0,2026-08-22 10:00
+P0087,2026-08-22 11:01:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.94,Payments,Concern,48,NONE,Normal,0,2026-08-22 11:00
+P0122,2026-08-22 11:04:00,X,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.89,Tracking,Curiosity,38,NONE,Normal,0,2026-08-22 11:00
+P0089,2026-08-22 11:05:00,YouTube,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.85,Payments,Satisfaction,120,NONE,Normal,0,2026-08-22 11:00
+P0106,2026-08-22 11:05:00,X,StreamBox,StreamBox,The new interface looks clean.,Positive,0.94,UX,Satisfaction,72,NONE,Normal,0,2026-08-22 11:00
+P0097,2026-08-22 11:06:00,Instagram,PayWave,PayWave,The app is pretty easy to use.,Positive,0.88,UX,Satisfaction,111,NONE,Normal,0,2026-08-22 11:00
+P0422,2026-08-22 11:07:00,Instagram,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.92,Payments,Concern,67,NONE,Normal,0,2026-08-22 11:00
+P0117,2026-08-22 11:07:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.9,Food Quality,Satisfaction,109,NONE,Normal,0,2026-08-22 11:00
+P0112,2026-08-22 11:11:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.87,Streaming,Concern,6,NONE,Normal,0,2026-08-22 11:00
+P0428,2026-08-22 11:11:00,Instagram,PayWave,PayWave,The app is pretty easy to use.,Positive,0.97,UX,Satisfaction,89,NONE,Normal,0,2026-08-22 11:00
+P0093,2026-08-22 11:12:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.9,UX,Satisfaction,40,NONE,Normal,0,2026-08-22 11:00
+P0115,2026-08-22 11:16:00,YouTube,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.89,Delivery,Satisfaction,115,NONE,Normal,0,2026-08-22 11:00
+P0091,2026-08-22 11:17:00,YouTube,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.9,Payments,Concern,37,NONE,Normal,0,2026-08-22 11:00
+P0111,2026-08-22 11:17:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.87,Streaming,Concern,17,NONE,Normal,0,2026-08-22 11:00
+P0121,2026-08-22 11:18:00,Reddit,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.94,Tracking,Curiosity,34,NONE,Normal,0,2026-08-22 11:00
+P0118,2026-08-22 11:19:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,44,NONE,Normal,0,2026-08-22 11:00
+P0108,2026-08-22 11:19:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.89,UX,Satisfaction,80,NONE,Normal,0,2026-08-22 11:00
+P0425,2026-08-22 11:19:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.91,UX,Satisfaction,57,NONE,Normal,0,2026-08-22 11:00
+P0102,2026-08-22 11:20:00,X,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.97,Streaming,Concern,16,NONE,Normal,0,2026-08-22 11:00
+P0105,2026-08-22 11:21:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.91,Streaming,Concern,40,NONE,Normal,0,2026-08-22 11:00
+P0109,2026-08-22 11:22:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.86,Streaming,Concern,39,NONE,Normal,0,2026-08-22 11:00
+P0092,2026-08-22 11:22:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.95,Payments,Satisfaction,109,NONE,Normal,0,2026-08-22 11:00
+P0090,2026-08-22 11:24:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.88,Payments,Concern,32,NONE,Normal,0,2026-08-22 11:00
+P0430,2026-08-22 11:26:00,YouTube,PayWave,payment_failure,Thinking of switching apps if this keeps happening.,Negative,0.9,Payment Failure,Churn Intent,201,INC-PAY-01,Early Signal,1,2026-08-22 11:00
+P0107,2026-08-22 11:28:00,Reddit,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.86,Streaming,Concern,16,NONE,Normal,0,2026-08-22 11:00
+P0085,2026-08-22 11:30:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.95,Payments,Concern,50,NONE,Normal,0,2026-08-22 11:00
+P0429,2026-08-22 11:31:00,X,PayWave,payment_failure,Payment failed again after entering the OTP.,Negative,0.98,Payment Failure,Frustration,228,INC-PAY-01,Early Signal,1,2026-08-22 11:00
+P0086,2026-08-22 11:34:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.87,Payments,Concern,67,NONE,Normal,0,2026-08-22 11:00
+P0113,2026-08-22 11:35:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.84,Delivery,Satisfaction,91,NONE,Normal,0,2026-08-22 11:00
+P0120,2026-08-22 11:35:00,Reddit,FoodRush,food_quality,The food was packed really well.,Positive,0.9,Food Quality,Satisfaction,10,NONE,Normal,0,2026-08-22 11:00
+P0421,2026-08-22 11:36:00,Reddit,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.88,Payments,Satisfaction,33,NONE,Normal,0,2026-08-22 11:00
+P0116,2026-08-22 11:36:00,Reddit,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.83,Delivery,Satisfaction,29,NONE,Normal,0,2026-08-22 11:00
+P0431,2026-08-22 11:36:00,Reddit,PayWave,PayWave,Why is my payment stuck on processing?,Negative,0.87,Payment Failure,Frustration,94,INC-PAY-01,Early Signal,1,2026-08-22 11:00
+P0096,2026-08-22 11:36:00,YouTube,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.83,Payments,Concern,55,NONE,Normal,0,2026-08-22 11:00
+P0094,2026-08-22 11:36:00,X,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.95,Payments,Satisfaction,99,NONE,Normal,0,2026-08-22 11:00
+P0114,2026-08-22 11:36:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.88,Delivery,Satisfaction,71,NONE,Normal,0,2026-08-22 11:00
+P0423,2026-08-22 11:37:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.96,Payments,Concern,49,NONE,Normal,0,2026-08-22 11:00
+P0426,2026-08-22 11:38:00,X,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.89,Payments,Concern,78,NONE,Normal,0,2026-08-22 11:00
+P0095,2026-08-22 11:38:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,49,NONE,Normal,0,2026-08-22 11:00
+P0101,2026-08-22 11:39:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.96,Streaming,Concern,64,NONE,Normal,0,2026-08-22 11:00
+P0427,2026-08-22 11:40:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.9,Payments,Concern,76,NONE,Normal,0,2026-08-22 11:00
+P0123,2026-08-22 11:41:00,X,FoodRush,FoodRush,The food was packed really well.,Positive,0.83,Food Quality,Satisfaction,115,NONE,Normal,0,2026-08-22 11:00
+P0098,2026-08-22 11:42:00,Instagram,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.82,Payments,Concern,13,NONE,Normal,0,2026-08-22 11:00
+P0125,2026-08-22 11:44:00,YouTube,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.89,Delivery,Concern,39,NONE,Normal,0,2026-08-22 11:00
+P0100,2026-08-22 11:45:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.94,Streaming,Concern,60,NONE,Normal,0,2026-08-22 11:00
+P0110,2026-08-22 11:46:00,X,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.85,Streaming,Satisfaction,25,NONE,Normal,0,2026-08-22 11:00
+P0103,2026-08-22 11:48:00,YouTube,StreamBox,ux,The new interface looks clean.,Positive,0.88,UX,Satisfaction,88,NONE,Normal,0,2026-08-22 11:00
+P0119,2026-08-22 11:48:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.85,Delivery,Satisfaction,43,NONE,Normal,0,2026-08-22 11:00
+P0124,2026-08-22 11:50:00,Instagram,FoodRush,food_quality,The food was packed really well.,Positive,0.84,Food Quality,Satisfaction,46,NONE,Normal,0,2026-08-22 11:00
+P0424,2026-08-22 11:52:00,Instagram,PayWave,PayWave,The app is pretty easy to use.,Positive,0.87,UX,Satisfaction,20,NONE,Normal,0,2026-08-22 11:00
+P0099,2026-08-22 11:52:00,YouTube,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.98,Streaming,Concern,18,NONE,Normal,0,2026-08-22 11:00
+P0104,2026-08-22 11:54:00,Instagram,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.86,Streaming,Concern,28,NONE,Normal,0,2026-08-22 11:00
+P0126,2026-08-22 11:56:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.82,Delivery,Satisfaction,87,NONE,Normal,0,2026-08-22 11:00
+P0088,2026-08-22 11:58:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.97,Payments,Concern,73,NONE,Normal,0,2026-08-22 11:00
+P0147,2026-08-22 12:00:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.83,Streaming,Concern,57,NONE,Normal,0,2026-08-22 12:00
+P0156,2026-08-22 12:04:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,85,NONE,Normal,0,2026-08-22 12:00
+P0167,2026-08-22 12:04:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.98,Tracking,Curiosity,33,NONE,Normal,0,2026-08-22 12:00
+P0168,2026-08-22 12:05:00,YouTube,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.91,Delivery,Concern,6,NONE,Normal,0,2026-08-22 12:00
+P0129,2026-08-22 12:05:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.88,Payments,Concern,49,NONE,Normal,0,2026-08-22 12:00
+P0132,2026-08-22 12:07:00,YouTube,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.93,Payments,Concern,70,NONE,Normal,0,2026-08-22 12:00
+P0437,2026-08-22 12:10:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.96,Payments,Concern,31,NONE,Normal,0,2026-08-22 12:00
+P0432,2026-08-22 12:10:00,YouTube,PayWave,payments,Payment took a little longer than usual.,Neutral,0.91,Payments,Concern,77,NONE,Normal,0,2026-08-22 12:00
+P0137,2026-08-22 12:14:00,Reddit,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.9,Payments,Satisfaction,25,NONE,Normal,0,2026-08-22 12:00
+P0441,2026-08-22 12:15:00,X,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.95,Payment Failure,Anger,232,INC-PAY-01,Growing,1,2026-08-22 12:00
+P0160,2026-08-22 12:17:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.97,Tracking,Curiosity,77,NONE,Normal,0,2026-08-22 12:00
+P0439,2026-08-22 12:18:00,Instagram,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.84,Payments,Concern,70,NONE,Normal,0,2026-08-22 12:00
+P0435,2026-08-22 12:19:00,Reddit,PayWave,ux,The app is pretty easy to use.,Positive,0.97,UX,Satisfaction,43,NONE,Normal,0,2026-08-22 12:00
+P0163,2026-08-22 12:19:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.94,Delivery,Satisfaction,84,NONE,Normal,0,2026-08-22 12:00
+P0149,2026-08-22 12:20:00,YouTube,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,74,NONE,Normal,0,2026-08-22 12:00
+P0152,2026-08-22 12:20:00,Reddit,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.89,Streaming,Satisfaction,55,NONE,Normal,0,2026-08-22 12:00
+P0148,2026-08-22 12:21:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.96,Streaming,Concern,15,NONE,Normal,0,2026-08-22 12:00
+P0145,2026-08-22 12:24:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.84,Streaming,Concern,68,NONE,Normal,0,2026-08-22 12:00
+P0133,2026-08-22 12:26:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.93,Payments,Concern,29,NONE,Normal,0,2026-08-22 12:00
+P0436,2026-08-22 12:28:00,Reddit,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.97,Payments,Satisfaction,36,NONE,Normal,0,2026-08-22 12:00
+P0443,2026-08-22 12:28:00,Reddit,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.94,Payment Failure,Abandonment,123,INC-PAY-01,Growing,1,2026-08-22 12:00
+P0155,2026-08-22 12:29:00,Instagram,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.97,Delivery,Concern,6,NONE,Normal,0,2026-08-22 12:00
+P0139,2026-08-22 12:29:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.97,UX,Satisfaction,34,NONE,Normal,0,2026-08-22 12:00
+P0444,2026-08-22 12:29:00,YouTube,PayWave,PayWave,This payment issue is getting ridiculous.,Negative,0.97,Payment Failure,Anger,168,INC-PAY-01,Growing,1,2026-08-22 12:00
+P0143,2026-08-22 12:29:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,29,NONE,Normal,0,2026-08-22 12:00
+P0128,2026-08-22 12:30:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.93,UX,Satisfaction,33,NONE,Normal,0,2026-08-22 12:00
+P0442,2026-08-22 12:31:00,X,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.93,Payment Failure,Abandonment,181,INC-PAY-01,Growing,1,2026-08-22 12:00
+P0138,2026-08-22 12:32:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.99,Payments,Concern,58,NONE,Normal,0,2026-08-22 12:00
+P0153,2026-08-22 12:33:00,YouTube,StreamBox,StreamBox,The new interface looks clean.,Positive,0.85,UX,Satisfaction,97,NONE,Normal,0,2026-08-22 12:00
+P0438,2026-08-22 12:34:00,Instagram,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.88,Payments,Concern,73,NONE,Normal,0,2026-08-22 12:00
+P0142,2026-08-22 12:34:00,YouTube,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.91,Streaming,Concern,49,NONE,Normal,0,2026-08-22 12:00
+P0433,2026-08-22 12:36:00,Reddit,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.91,Payments,Satisfaction,109,NONE,Normal,0,2026-08-22 12:00
+P0159,2026-08-22 12:36:00,Instagram,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.99,Delivery,Concern,42,NONE,Normal,0,2026-08-22 12:00
+P0162,2026-08-22 12:39:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.97,Food Quality,Satisfaction,90,NONE,Normal,0,2026-08-22 12:00
+P0154,2026-08-22 12:39:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.86,Streaming,Satisfaction,73,NONE,Normal,0,2026-08-22 12:00
+P0134,2026-08-22 12:40:00,YouTube,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.87,Payments,Concern,11,NONE,Normal,0,2026-08-22 12:00
+P0150,2026-08-22 12:40:00,Instagram,StreamBox,StreamBox,The new interface looks clean.,Positive,0.89,UX,Satisfaction,105,NONE,Normal,0,2026-08-22 12:00
+P0127,2026-08-22 12:43:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.95,UX,Satisfaction,83,NONE,Normal,0,2026-08-22 12:00
+P0157,2026-08-22 12:44:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.85,Tracking,Curiosity,63,NONE,Normal,0,2026-08-22 12:00
+P0136,2026-08-22 12:45:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.91,UX,Satisfaction,80,NONE,Normal,0,2026-08-22 12:00
+P0141,2026-08-22 12:46:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.97,Streaming,Concern,80,NONE,Normal,0,2026-08-22 12:00
+P0445,2026-08-22 12:46:00,YouTube,PayWave,PayWave,Why is my payment stuck on processing?,Negative,0.96,Payment Failure,Frustration,237,INC-PAY-01,Growing,1,2026-08-22 12:00
+P0434,2026-08-22 12:48:00,YouTube,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.84,Payments,Satisfaction,37,NONE,Normal,0,2026-08-22 12:00
+P0151,2026-08-22 12:48:00,Reddit,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.97,Streaming,Satisfaction,31,NONE,Normal,0,2026-08-22 12:00
+P0140,2026-08-22 12:49:00,YouTube,PayWave,payments,Payment took a little longer than usual.,Neutral,0.96,Payments,Concern,48,NONE,Normal,0,2026-08-22 12:00
+P0165,2026-08-22 12:50:00,Instagram,FoodRush,food_quality,The food was packed really well.,Positive,0.96,Food Quality,Satisfaction,74,NONE,Normal,0,2026-08-22 12:00
+P0131,2026-08-22 12:52:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.87,Payments,Concern,63,NONE,Normal,0,2026-08-22 12:00
+P0161,2026-08-22 12:53:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.86,Tracking,Curiosity,34,NONE,Normal,0,2026-08-22 12:00
+P0130,2026-08-22 12:54:00,X,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.87,Payments,Satisfaction,62,NONE,Normal,0,2026-08-22 12:00
+P0158,2026-08-22 12:54:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.88,Tracking,Curiosity,18,NONE,Normal,0,2026-08-22 12:00
+P0144,2026-08-22 12:54:00,YouTube,StreamBox,ux,The new interface looks clean.,Positive,0.94,UX,Satisfaction,50,NONE,Normal,0,2026-08-22 12:00
+P0146,2026-08-22 12:55:00,Reddit,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.91,Streaming,Concern,61,NONE,Normal,0,2026-08-22 12:00
+P0440,2026-08-22 12:58:00,Reddit,PayWave,PayWave,I'm done trying to pay through this app.,Negative,0.94,Payment Failure,Abandonment,241,INC-PAY-01,Growing,1,2026-08-22 12:00
+P0164,2026-08-22 12:58:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.85,Delivery,Satisfaction,105,NONE,Normal,0,2026-08-22 12:00
+P0166,2026-08-22 12:58:00,YouTube,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.96,Delivery,Concern,42,NONE,Normal,0,2026-08-22 12:00
+P0135,2026-08-22 12:59:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.84,UX,Satisfaction,99,NONE,Normal,0,2026-08-22 12:00
+P0454,2026-08-22 13:00:00,Reddit,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.99,Payment Failure,Churn Intent,229,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0448,2026-08-22 13:02:00,Reddit,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.98,Payments,Satisfaction,12,NONE,Normal,0,2026-08-22 13:00
+P0176,2026-08-22 13:02:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.9,Payments,Concern,32,NONE,Normal,0,2026-08-22 13:00
+P0187,2026-08-22 13:03:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.9,Streaming,Satisfaction,64,NONE,Normal,0,2026-08-22 13:00
+P0178,2026-08-22 13:03:00,YouTube,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.98,Payments,Concern,40,NONE,Normal,0,2026-08-22 13:00
+P0184,2026-08-22 13:03:00,X,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.95,Streaming,Concern,58,NONE,Normal,0,2026-08-22 13:00
+P0193,2026-08-22 13:04:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.89,Streaming,Concern,15,NONE,Normal,0,2026-08-22 13:00
+P0188,2026-08-22 13:04:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.83,Streaming,Concern,46,NONE,Normal,0,2026-08-22 13:00
+P0766,2026-08-22 13:05:00,Reddit,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.88,Payment Failure,Anger,146,INC-PAY-01,Propagation,1,2026-08-22 13:00
+P0179,2026-08-22 13:05:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.95,Payments,Concern,7,NONE,Normal,0,2026-08-22 13:00
+P0451,2026-08-22 13:05:00,Instagram,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.89,Payments,Concern,26,NONE,Normal,0,2026-08-22 13:00
+P0456,2026-08-22 13:06:00,Instagram,PayWave,payment_failure,Why is my payment stuck on processing?,Negative,0.84,Payment Failure,Frustration,245,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0190,2026-08-22 13:06:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.89,Streaming,Concern,75,NONE,Normal,0,2026-08-22 13:00
+P0170,2026-08-22 13:06:00,X,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.93,Payments,Concern,65,NONE,Normal,0,2026-08-22 13:00
+P0198,2026-08-22 13:07:00,Instagram,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.96,Delivery,Concern,78,NONE,Normal,0,2026-08-22 13:00
+P0465,2026-08-22 13:08:00,YouTube,PayWave,payment_failure,This payment issue is getting ridiculous.,Negative,0.91,Payment Failure,Anger,127,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0180,2026-08-22 13:08:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,116,NONE,Normal,0,2026-08-22 13:00
+P0197,2026-08-22 13:09:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.88,Food Quality,Satisfaction,118,NONE,Normal,0,2026-08-22 13:00
+P0453,2026-08-22 13:13:00,YouTube,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.91,Payments,Satisfaction,26,NONE,Normal,0,2026-08-22 13:00
+P0446,2026-08-22 13:13:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.87,Payments,Concern,32,NONE,Normal,0,2026-08-22 13:00
+P0461,2026-08-22 13:17:00,Reddit,PayWave,payment_failure,Money was deducted but the order still says unpaid.,Negative,0.95,Payment Failure,Anger,161,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0206,2026-08-22 13:18:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.83,Delivery,Satisfaction,95,NONE,Normal,0,2026-08-22 13:00
+P0173,2026-08-22 13:19:00,YouTube,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.97,Payments,Satisfaction,22,NONE,Normal,0,2026-08-22 13:00
+P0767,2026-08-22 13:20:00,X,PayWave,payment_failure,Anyone else unable to complete a payment right now?,Negative,0.94,Payment Failure,Concern,115,INC-PAY-01,Propagation,1,2026-08-22 13:00
+P0447,2026-08-22 13:21:00,X,PayWave,payments,Payment took a little longer than usual.,Neutral,0.95,Payments,Concern,77,NONE,Normal,0,2026-08-22 13:00
+P0181,2026-08-22 13:21:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.99,UX,Satisfaction,45,NONE,Normal,0,2026-08-22 13:00
+P0169,2026-08-22 13:23:00,Instagram,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.96,Payments,Concern,79,NONE,Normal,0,2026-08-22 13:00
+P0202,2026-08-22 13:24:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.88,Food Quality,Satisfaction,53,NONE,Normal,0,2026-08-22 13:00
+P0174,2026-08-22 13:24:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,95,NONE,Normal,0,2026-08-22 13:00
+P0191,2026-08-22 13:26:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.94,UX,Satisfaction,61,NONE,Normal,0,2026-08-22 13:00
+P0205,2026-08-22 13:26:00,Instagram,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.88,Tracking,Curiosity,32,NONE,Normal,0,2026-08-22 13:00
+P0192,2026-08-22 13:27:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.98,Streaming,Concern,37,NONE,Normal,0,2026-08-22 13:00
+P0449,2026-08-22 13:28:00,YouTube,PayWave,PayWave,The app is pretty easy to use.,Positive,0.99,UX,Satisfaction,64,NONE,Normal,0,2026-08-22 13:00
+P0185,2026-08-22 13:28:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.9,Streaming,Concern,70,NONE,Normal,0,2026-08-22 13:00
+P0458,2026-08-22 13:28:00,Instagram,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.98,Payment Failure,Anger,180,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0210,2026-08-22 13:32:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.89,Food Quality,Satisfaction,60,NONE,Normal,0,2026-08-22 13:00
+P0768,2026-08-22 13:35:00,Instagram,PayWave,PayWave,Payment failed again after entering the OTP.,Negative,0.83,Payment Failure,Frustration,40,INC-PAY-01,Propagation,1,2026-08-22 13:00
+P0201,2026-08-22 13:36:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.84,Food Quality,Satisfaction,28,NONE,Normal,0,2026-08-22 13:00
+P0460,2026-08-22 13:37:00,YouTube,PayWave,payment_failure,Why is my payment stuck on processing?,Negative,0.95,Payment Failure,Frustration,129,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0199,2026-08-22 13:38:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.94,Delivery,Satisfaction,33,NONE,Normal,0,2026-08-22 13:00
+P0207,2026-08-22 13:38:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.87,Tracking,Curiosity,5,NONE,Normal,0,2026-08-22 13:00
+P0186,2026-08-22 13:39:00,Reddit,StreamBox,ux,The new interface looks clean.,Positive,0.93,UX,Satisfaction,48,NONE,Normal,0,2026-08-22 13:00
+P0189,2026-08-22 13:39:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.9,Streaming,Concern,53,NONE,Normal,0,2026-08-22 13:00
+P0464,2026-08-22 13:40:00,Reddit,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.99,Payment Failure,Churn Intent,247,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0463,2026-08-22 13:41:00,Reddit,PayWave,payment_failure,Anyone else unable to complete a payment right now?,Negative,0.84,Payment Failure,Concern,146,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0172,2026-08-22 13:41:00,YouTube,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.83,Payments,Concern,19,NONE,Normal,0,2026-08-22 13:00
+P0457,2026-08-22 13:41:00,X,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.92,Payment Failure,Anger,155,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0195,2026-08-22 13:42:00,Reddit,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.97,Streaming,Concern,57,NONE,Normal,0,2026-08-22 13:00
+P0204,2026-08-22 13:43:00,Reddit,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.9,Delivery,Satisfaction,66,NONE,Normal,0,2026-08-22 13:00
+P0455,2026-08-22 13:44:00,X,PayWave,PayWave,I'm done trying to pay through this app.,Negative,0.89,Payment Failure,Abandonment,38,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0452,2026-08-22 13:46:00,X,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.94,Payments,Concern,59,NONE,Normal,0,2026-08-22 13:00
+P0209,2026-08-22 13:47:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.88,Tracking,Curiosity,27,NONE,Normal,0,2026-08-22 13:00
+P0203,2026-08-22 13:49:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.85,Delivery,Concern,11,NONE,Normal,0,2026-08-22 13:00
+P0208,2026-08-22 13:49:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.84,Food Quality,Satisfaction,47,NONE,Normal,0,2026-08-22 13:00
+P0769,2026-08-22 13:50:00,YouTube,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.85,Payment Failure,Abandonment,159,INC-PAY-01,Propagation,1,2026-08-22 13:00
+P0183,2026-08-22 13:50:00,X,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.82,Streaming,Concern,80,NONE,Normal,0,2026-08-22 13:00
+P0182,2026-08-22 13:51:00,X,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.84,Payments,Concern,19,NONE,Normal,0,2026-08-22 13:00
+P0194,2026-08-22 13:51:00,X,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.92,Streaming,Concern,76,NONE,Normal,0,2026-08-22 13:00
+P0177,2026-08-22 13:54:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.91,UX,Satisfaction,97,NONE,Normal,0,2026-08-22 13:00
+P0462,2026-08-22 13:54:00,Instagram,PayWave,PayWave,Payment failed again after entering the OTP.,Negative,0.95,Payment Failure,Frustration,152,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0196,2026-08-22 13:55:00,Reddit,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.88,Streaming,Concern,41,NONE,Normal,0,2026-08-22 13:00
+P0459,2026-08-22 13:55:00,X,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.84,Payment Failure,Churn Intent,249,INC-PAY-01,Accelerating,1,2026-08-22 13:00
+P0175,2026-08-22 13:56:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,116,NONE,Normal,0,2026-08-22 13:00
+P0450,2026-08-22 13:56:00,Instagram,PayWave,PayWave,The app is pretty easy to use.,Positive,0.93,UX,Satisfaction,45,NONE,Normal,0,2026-08-22 13:00
+P0171,2026-08-22 13:58:00,X,PayWave,payments,Payment took a little longer than usual.,Neutral,0.97,Payments,Concern,13,NONE,Normal,0,2026-08-22 13:00
+P0200,2026-08-22 13:58:00,Instagram,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.85,Delivery,Concern,49,NONE,Normal,0,2026-08-22 13:00
+P0246,2026-08-22 14:01:00,Instagram,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.91,Delivery,Satisfaction,116,NONE,Normal,0,2026-08-22 14:00
+P0485,2026-08-22 14:01:00,X,PayWave,PayWave,I'm done trying to pay through this app.,Negative,0.98,Payment Failure,Abandonment,108,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0544,2026-08-22 14:02:00,YouTube,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.85,App Crash,Anger,194,INC-STR-01,Early Signal,1,2026-08-22 14:00
+P0225,2026-08-22 14:02:00,X,StreamBox,StreamBox,The new interface looks clean.,Positive,0.88,UX,Satisfaction,66,NONE,Normal,0,2026-08-22 14:00
+P0467,2026-08-22 14:02:00,Reddit,PayWave,ux,The app is pretty easy to use.,Positive,0.93,UX,Satisfaction,74,NONE,Normal,0,2026-08-22 14:00
+P0222,2026-08-22 14:04:00,Reddit,PayWave,payments,Payment took a little longer than usual.,Neutral,0.9,Payments,Concern,69,NONE,Normal,0,2026-08-22 14:00
+P0251,2026-08-22 14:04:00,Reddit,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.83,Delivery,Concern,54,NONE,Normal,0,2026-08-22 14:00
+P0227,2026-08-22 14:04:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.87,Streaming,Concern,17,NONE,Normal,0,2026-08-22 14:00
+P0536,2026-08-22 14:05:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.95,Streaming,Concern,19,NONE,Normal,0,2026-08-22 14:00
+P0469,2026-08-22 14:05:00,X,PayWave,payments,Payment took a little longer than usual.,Neutral,0.89,Payments,Concern,24,NONE,Normal,0,2026-08-22 14:00
+P0540,2026-08-22 14:05:00,Instagram,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.91,Streaming,Satisfaction,62,NONE,Normal,0,2026-08-22 14:00
+P0472,2026-08-22 14:07:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.85,UX,Satisfaction,99,NONE,Normal,0,2026-08-22 14:00
+P0471,2026-08-22 14:07:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.93,Payments,Concern,12,NONE,Normal,0,2026-08-22 14:00
+P0247,2026-08-22 14:07:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.84,Tracking,Curiosity,35,NONE,Normal,0,2026-08-22 14:00
+P0543,2026-08-22 14:07:00,YouTube,StreamBox,StreamBox,The new interface looks clean.,Positive,0.96,UX,Satisfaction,31,NONE,Normal,0,2026-08-22 14:00
+P0492,2026-08-22 14:08:00,Reddit,PayWave,PayWave,Money was deducted but the order still says unpaid.,Negative,0.9,Payment Failure,Anger,47,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0218,2026-08-22 14:11:00,YouTube,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.94,Payments,Satisfaction,106,NONE,Normal,0,2026-08-22 14:00
+P0215,2026-08-22 14:14:00,Instagram,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.91,Payments,Concern,26,NONE,Normal,0,2026-08-22 14:00
+P0479,2026-08-22 14:14:00,Instagram,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.87,Payment Failure,Abandonment,126,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0477,2026-08-22 14:14:00,Reddit,PayWave,PayWave,Why is my payment stuck on processing?,Negative,0.86,Payment Failure,Frustration,239,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0490,2026-08-22 14:15:00,Instagram,PayWave,payment_failure,Tried paying three times and none of them went through.,Negative,0.98,Payment Failure,Anger,237,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0250,2026-08-22 14:15:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.91,Delivery,Concern,28,NONE,Normal,0,2026-08-22 14:00
+P0494,2026-08-22 14:16:00,Reddit,PayWave,payment_failure,Thinking of switching apps if this keeps happening.,Negative,0.96,Payment Failure,Churn Intent,60,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0217,2026-08-22 14:16:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.95,UX,Satisfaction,87,NONE,Normal,0,2026-08-22 14:00
+P0539,2026-08-22 14:16:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.85,Streaming,Concern,39,NONE,Normal,0,2026-08-22 14:00
+P0475,2026-08-22 14:16:00,Reddit,PayWave,payment_failure,Why is my payment stuck on processing?,Negative,0.83,Payment Failure,Frustration,136,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0212,2026-08-22 14:18:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.98,Payments,Concern,56,NONE,Normal,0,2026-08-22 14:00
+P0470,2026-08-22 14:19:00,YouTube,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.83,Payments,Satisfaction,17,NONE,Normal,0,2026-08-22 14:00
+P0221,2026-08-22 14:19:00,YouTube,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.88,Payments,Satisfaction,14,NONE,Normal,0,2026-08-22 14:00
+P0482,2026-08-22 14:20:00,Reddit,PayWave,PayWave,Anyone else unable to complete a payment right now?,Negative,0.88,Payment Failure,Concern,136,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0228,2026-08-22 14:21:00,Reddit,StreamBox,StreamBox,The new interface looks clean.,Positive,0.98,UX,Satisfaction,94,NONE,Normal,0,2026-08-22 14:00
+P0232,2026-08-22 14:21:00,YouTube,StreamBox,StreamBox,The new interface looks clean.,Positive,0.85,UX,Satisfaction,38,NONE,Normal,0,2026-08-22 14:00
+P0476,2026-08-22 14:23:00,X,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.97,Payment Failure,Anger,217,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0478,2026-08-22 14:23:00,YouTube,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.91,Payment Failure,Churn Intent,65,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0243,2026-08-22 14:23:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.96,Delivery,Satisfaction,50,NONE,Normal,0,2026-08-22 14:00
+P0252,2026-08-22 14:23:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.95,Tracking,Curiosity,7,NONE,Normal,0,2026-08-22 14:00
+P0538,2026-08-22 14:23:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.86,Streaming,Concern,62,NONE,Normal,0,2026-08-22 14:00
+P0226,2026-08-22 14:24:00,YouTube,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.95,Streaming,Concern,48,NONE,Normal,0,2026-08-22 14:00
+P0481,2026-08-22 14:25:00,Reddit,PayWave,payment_failure,Payment failed again after entering the OTP.,Negative,0.95,Payment Failure,Frustration,241,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0487,2026-08-22 14:26:00,YouTube,PayWave,payment_failure,Money was deducted but the order still says unpaid.,Negative,0.84,Payment Failure,Anger,56,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0493,2026-08-22 14:26:00,Reddit,PayWave,PayWave,This payment issue is getting ridiculous.,Negative,0.9,Payment Failure,Anger,111,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0242,2026-08-22 14:26:00,Reddit,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.86,Delivery,Satisfaction,74,NONE,Normal,0,2026-08-22 14:00
+P0248,2026-08-22 14:26:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.92,Food Quality,Satisfaction,24,NONE,Normal,0,2026-08-22 14:00
+P0214,2026-08-22 14:27:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.97,UX,Satisfaction,20,NONE,Normal,0,2026-08-22 14:00
+P0468,2026-08-22 14:27:00,YouTube,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.87,Payments,Concern,15,NONE,Normal,0,2026-08-22 14:00
+P0236,2026-08-22 14:28:00,Instagram,StreamBox,StreamBox,The new interface looks clean.,Positive,0.87,UX,Satisfaction,39,NONE,Normal,0,2026-08-22 14:00
+P0224,2026-08-22 14:28:00,Reddit,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.91,Payments,Satisfaction,101,NONE,Normal,0,2026-08-22 14:00
+P0223,2026-08-22 14:28:00,X,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.91,Payments,Satisfaction,87,NONE,Normal,0,2026-08-22 14:00
+P0542,2026-08-22 14:30:00,Instagram,StreamBox,StreamBox,The new interface looks clean.,Positive,0.91,UX,Satisfaction,60,NONE,Normal,0,2026-08-22 14:00
+P0537,2026-08-22 14:31:00,Instagram,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.85,Streaming,Concern,16,NONE,Normal,0,2026-08-22 14:00
+P0231,2026-08-22 14:32:00,Instagram,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.87,Streaming,Concern,7,NONE,Normal,0,2026-08-22 14:00
+P0216,2026-08-22 14:33:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.86,Payments,Satisfaction,54,NONE,Normal,0,2026-08-22 14:00
+P0473,2026-08-22 14:33:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.84,Payments,Concern,26,NONE,Normal,0,2026-08-22 14:00
+P0546,2026-08-22 14:35:00,Instagram,StreamBox,outage,Might cancel my subscription if this continues.,Negative,0.98,Outage,Churn Intent,153,INC-STR-01,Early Signal,1,2026-08-22 14:00
+P0480,2026-08-22 14:36:00,Instagram,PayWave,PayWave,Why is my payment stuck on processing?,Negative,0.85,Payment Failure,Frustration,148,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0483,2026-08-22 14:36:00,Instagram,PayWave,payment_failure,Anyone else unable to complete a payment right now?,Negative,0.92,Payment Failure,Concern,138,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0234,2026-08-22 14:38:00,YouTube,StreamBox,StreamBox,The new interface looks clean.,Positive,0.96,UX,Satisfaction,30,NONE,Normal,0,2026-08-22 14:00
+P0249,2026-08-22 14:40:00,X,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.82,Delivery,Satisfaction,47,NONE,Normal,0,2026-08-22 14:00
+P0489,2026-08-22 14:40:00,YouTube,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.89,Payment Failure,Anger,171,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0220,2026-08-22 14:40:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.88,Payments,Concern,40,NONE,Normal,0,2026-08-22 14:00
+P0229,2026-08-22 14:41:00,YouTube,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.87,Streaming,Concern,21,NONE,Normal,0,2026-08-22 14:00
+P0230,2026-08-22 14:41:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.93,Streaming,Concern,21,NONE,Normal,0,2026-08-22 14:00
+P0245,2026-08-22 14:44:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,65,NONE,Normal,0,2026-08-22 14:00
+P0491,2026-08-22 14:44:00,Instagram,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.86,Payment Failure,Abandonment,135,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0240,2026-08-22 14:45:00,Reddit,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.87,Delivery,Satisfaction,20,NONE,Normal,0,2026-08-22 14:00
+P0235,2026-08-22 14:46:00,YouTube,StreamBox,ux,The new interface looks clean.,Positive,0.93,UX,Satisfaction,62,NONE,Normal,0,2026-08-22 14:00
+P0474,2026-08-22 14:46:00,Reddit,PayWave,payment_failure,Anyone else unable to complete a payment right now?,Negative,0.87,Payment Failure,Concern,105,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0486,2026-08-22 14:48:00,YouTube,PayWave,PayWave,Payment failed again after entering the OTP.,Negative,0.91,Payment Failure,Frustration,46,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0466,2026-08-22 14:48:00,YouTube,PayWave,PayWave,The app is pretty easy to use.,Positive,0.82,UX,Satisfaction,12,NONE,Normal,0,2026-08-22 14:00
+P0238,2026-08-22 14:49:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.98,Streaming,Concern,69,NONE,Normal,0,2026-08-22 14:00
+P0484,2026-08-22 14:49:00,X,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.85,Payment Failure,Churn Intent,214,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0244,2026-08-22 14:50:00,X,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.87,Delivery,Concern,22,NONE,Normal,0,2026-08-22 14:00
+P0213,2026-08-22 14:51:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.96,UX,Satisfaction,21,NONE,Normal,0,2026-08-22 14:00
+P0239,2026-08-22 14:51:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.97,Food Quality,Satisfaction,16,NONE,Normal,0,2026-08-22 14:00
+P0541,2026-08-22 14:52:00,YouTube,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,73,NONE,Normal,0,2026-08-22 14:00
+P0241,2026-08-22 14:53:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.97,Food Quality,Satisfaction,38,NONE,Normal,0,2026-08-22 14:00
+P0545,2026-08-22 14:53:00,Instagram,StreamBox,StreamBox,The app crashed three times while I was watching.,Negative,0.83,App Crash,Anger,206,INC-STR-01,Early Signal,1,2026-08-22 14:00
+P0233,2026-08-22 14:54:00,Reddit,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.93,Streaming,Concern,69,NONE,Normal,0,2026-08-22 14:00
+P0219,2026-08-22 14:55:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.83,Payments,Concern,24,NONE,Normal,0,2026-08-22 14:00
+P0237,2026-08-22 14:57:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.9,Streaming,Concern,52,NONE,Normal,0,2026-08-22 14:00
+P0488,2026-08-22 14:57:00,YouTube,PayWave,PayWave,Money was deducted but the order still says unpaid.,Negative,0.92,Payment Failure,Anger,137,INC-PAY-01,Spike,1,2026-08-22 14:00
+P0211,2026-08-22 14:58:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.92,Payments,Concern,45,NONE,Normal,0,2026-08-22 14:00
+P0497,2026-08-22 15:01:00,YouTube,PayWave,PayWave,The app is pretty easy to use.,Positive,0.84,UX,Satisfaction,81,NONE,Normal,0,2026-08-22 15:00
+P0509,2026-08-22 15:01:00,Instagram,PayWave,payment_failure,Money was deducted but the order still says unpaid.,Negative,0.91,Payment Failure,Anger,227,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0265,2026-08-22 15:01:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.83,UX,Satisfaction,14,NONE,Normal,0,2026-08-22 15:00
+P0551,2026-08-22 15:02:00,YouTube,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.83,Streaming,Concern,47,NONE,Normal,0,2026-08-22 15:00
+P0256,2026-08-22 15:02:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.95,Payments,Concern,30,NONE,Normal,0,2026-08-22 15:00
+P0550,2026-08-22 15:02:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.84,Streaming,Concern,40,NONE,Normal,0,2026-08-22 15:00
+P0502,2026-08-22 15:03:00,X,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.96,Payments,Concern,78,NONE,Normal,0,2026-08-22 15:00
+P0506,2026-08-22 15:03:00,Reddit,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.89,Payment Failure,Churn Intent,118,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0515,2026-08-22 15:03:00,X,PayWave,payment_failure,Why is my payment stuck on processing?,Negative,0.82,Payment Failure,Frustration,25,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0517,2026-08-22 15:03:00,Reddit,PayWave,PayWave,This payment issue is getting ridiculous.,Negative,0.95,Payment Failure,Anger,170,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0559,2026-08-22 15:03:00,Instagram,StreamBox,outage,Everyone in the comments seems to be having the same problem.,Negative,0.96,Outage,Concern,90,INC-STR-01,Growing,1,2026-08-22 15:00
+P0518,2026-08-22 15:04:00,Instagram,PayWave,PayWave,This payment issue is getting ridiculous.,Negative,0.88,Payment Failure,Anger,170,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0557,2026-08-22 15:04:00,Instagram,StreamBox,StreamBox,The app crashed three times while I was watching.,Negative,0.95,App Crash,Anger,123,INC-STR-01,Growing,1,2026-08-22 15:00
+P0272,2026-08-22 15:05:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.91,Streaming,Concern,49,NONE,Normal,0,2026-08-22 15:00
+P0261,2026-08-22 15:05:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.87,Payments,Concern,28,NONE,Normal,0,2026-08-22 15:00
+P0274,2026-08-22 15:07:00,X,StreamBox,ux,The new interface looks clean.,Positive,0.82,UX,Satisfaction,40,NONE,Normal,0,2026-08-22 15:00
+P0278,2026-08-22 15:08:00,X,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.91,Streaming,Concern,21,NONE,Normal,0,2026-08-22 15:00
+P0554,2026-08-22 15:08:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.87,UX,Satisfaction,109,NONE,Normal,0,2026-08-22 15:00
+P0499,2026-08-22 15:08:00,X,PayWave,PayWave,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,57,NONE,Normal,0,2026-08-22 15:00
+P0519,2026-08-22 15:08:00,X,PayWave,payment_failure,This payment issue is getting ridiculous.,Negative,0.93,Payment Failure,Anger,222,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0521,2026-08-22 15:08:00,X,PayWave,payment_failure,Anyone else unable to complete a payment right now?,Negative,0.96,Payment Failure,Concern,199,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0510,2026-08-22 15:10:00,Reddit,PayWave,PayWave,Money was deducted but the order still says unpaid.,Negative,0.87,Payment Failure,Anger,188,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0532,2026-08-22 15:10:00,Reddit,PayWave,PayWave,I'm done trying to pay through this app.,Negative,0.99,Payment Failure,Abandonment,104,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0528,2026-08-22 15:10:00,YouTube,PayWave,PayWave,Money was deducted but the order still says unpaid.,Negative,0.87,Payment Failure,Anger,224,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0522,2026-08-22 15:11:00,Instagram,PayWave,PayWave,Payment failed again after entering the OTP.,Negative,0.98,Payment Failure,Frustration,183,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0512,2026-08-22 15:11:00,X,PayWave,payment_failure,Tried paying three times and none of them went through.,Negative,0.98,Payment Failure,Anger,101,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0558,2026-08-22 15:11:00,X,StreamBox,StreamBox,Stream keeps buffering every few minutes.,Negative,0.86,Buffering,Frustration,234,INC-STR-01,Growing,1,2026-08-22 15:00
+P0292,2026-08-22 15:12:00,X,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.9,Delivery,Concern,68,NONE,Normal,0,2026-08-22 15:00
+P0271,2026-08-22 15:12:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.9,Streaming,Concern,22,NONE,Normal,0,2026-08-22 15:00
+P0281,2026-08-22 15:12:00,Instagram,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.92,Delivery,Concern,21,NONE,Normal,0,2026-08-22 15:00
+P0495,2026-08-22 15:13:00,Instagram,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.98,Payments,Satisfaction,21,NONE,Normal,0,2026-08-22 15:00
+P0294,2026-08-22 15:13:00,Instagram,FoodRush,food_quality,The food was packed really well.,Positive,0.9,Food Quality,Satisfaction,16,NONE,Normal,0,2026-08-22 15:00
+P0253,2026-08-22 15:15:00,Reddit,PayWave,payments,Payment took a little longer than usual.,Neutral,0.84,Payments,Concern,79,NONE,Normal,0,2026-08-22 15:00
+P0270,2026-08-22 15:16:00,Instagram,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.94,Streaming,Satisfaction,37,NONE,Normal,0,2026-08-22 15:00
+P0529,2026-08-22 15:16:00,Reddit,PayWave,PayWave,This payment issue is getting ridiculous.,Negative,0.97,Payment Failure,Anger,107,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0264,2026-08-22 15:17:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.88,Payments,Concern,14,NONE,Normal,0,2026-08-22 15:00
+P0258,2026-08-22 15:18:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.87,UX,Satisfaction,120,NONE,Normal,0,2026-08-22 15:00
+P0535,2026-08-22 15:18:00,YouTube,PayWave,PayWave,Why is my payment stuck on processing?,Negative,0.86,Payment Failure,Frustration,44,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0286,2026-08-22 15:19:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.85,Tracking,Curiosity,14,NONE,Normal,0,2026-08-22 15:00
+P0553,2026-08-22 15:19:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.99,Streaming,Concern,67,NONE,Normal,0,2026-08-22 15:00
+P0262,2026-08-22 15:20:00,Instagram,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.85,Payments,Satisfaction,67,NONE,Normal,0,2026-08-22 15:00
+P0257,2026-08-22 15:20:00,Instagram,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.86,Payments,Satisfaction,60,NONE,Normal,0,2026-08-22 15:00
+P0523,2026-08-22 15:21:00,Reddit,PayWave,payment_failure,Tried paying three times and none of them went through.,Negative,0.85,Payment Failure,Anger,108,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0527,2026-08-22 15:22:00,YouTube,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.95,Payment Failure,Abandonment,232,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0263,2026-08-22 15:22:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.92,Payments,Concern,10,NONE,Normal,0,2026-08-22 15:00
+P0525,2026-08-22 15:22:00,Instagram,PayWave,PayWave,Why is my payment stuck on processing?,Negative,0.83,Payment Failure,Frustration,204,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0508,2026-08-22 15:22:00,Instagram,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.82,Payment Failure,Churn Intent,89,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0266,2026-08-22 15:23:00,YouTube,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.92,Payments,Concern,77,NONE,Normal,0,2026-08-22 15:00
+P0267,2026-08-22 15:23:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,61,NONE,Normal,0,2026-08-22 15:00
+P0268,2026-08-22 15:25:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.98,Streaming,Concern,40,NONE,Normal,0,2026-08-22 15:00
+P0259,2026-08-22 15:27:00,YouTube,PayWave,payments,Payment took a little longer than usual.,Neutral,0.88,Payments,Concern,61,NONE,Normal,0,2026-08-22 15:00
+P0290,2026-08-22 15:28:00,X,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.83,Delivery,Concern,23,NONE,Normal,0,2026-08-22 15:00
+P0275,2026-08-22 15:29:00,X,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.87,Streaming,Concern,16,NONE,Normal,0,2026-08-22 15:00
+P0287,2026-08-22 15:30:00,YouTube,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,31,NONE,Normal,0,2026-08-22 15:00
+P0503,2026-08-22 15:31:00,Reddit,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.85,Payment Failure,Abandonment,194,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0285,2026-08-22 15:31:00,Instagram,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.96,Delivery,Satisfaction,71,NONE,Normal,0,2026-08-22 15:00
+P0260,2026-08-22 15:31:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.96,UX,Satisfaction,112,NONE,Normal,0,2026-08-22 15:00
+P0293,2026-08-22 15:31:00,Reddit,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.91,Delivery,Concern,16,NONE,Normal,0,2026-08-22 15:00
+P0496,2026-08-22 15:32:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.96,Payments,Concern,43,NONE,Normal,0,2026-08-22 15:00
+P0289,2026-08-22 15:32:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.9,Delivery,Concern,45,NONE,Normal,0,2026-08-22 15:00
+P0282,2026-08-22 15:32:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.85,Delivery,Satisfaction,84,NONE,Normal,0,2026-08-22 15:00
+P0276,2026-08-22 15:33:00,YouTube,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.84,Streaming,Concern,57,NONE,Normal,0,2026-08-22 15:00
+P0254,2026-08-22 15:34:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.99,Payments,Concern,27,NONE,Normal,0,2026-08-22 15:00
+P0534,2026-08-22 15:36:00,YouTube,PayWave,payment_failure,I'm done trying to pay through this app.,Negative,0.82,Payment Failure,Abandonment,33,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0555,2026-08-22 15:38:00,Reddit,StreamBox,StreamBox,Might cancel my subscription if this continues.,Negative,0.98,Outage,Churn Intent,133,INC-STR-01,Growing,1,2026-08-22 15:00
+P0505,2026-08-22 15:39:00,X,PayWave,payment_failure,Payment failed again after entering the OTP.,Negative,0.97,Payment Failure,Frustration,147,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0560,2026-08-22 15:40:00,Reddit,StreamBox,outage,Might cancel my subscription if this continues.,Negative,0.9,Outage,Churn Intent,81,INC-STR-01,Growing,1,2026-08-22 15:00
+P0255,2026-08-22 15:40:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.94,Payments,Concern,22,NONE,Normal,0,2026-08-22 15:00
+P0507,2026-08-22 15:40:00,Reddit,PayWave,payment_failure,Money was deducted but the order still says unpaid.,Negative,0.9,Payment Failure,Anger,220,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0277,2026-08-22 15:41:00,Reddit,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.94,Streaming,Concern,62,NONE,Normal,0,2026-08-22 15:00
+P0284,2026-08-22 15:41:00,X,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.93,Delivery,Concern,78,NONE,Normal,0,2026-08-22 15:00
+P0533,2026-08-22 15:44:00,Instagram,PayWave,PayWave,I'm done trying to pay through this app.,Negative,0.84,Payment Failure,Abandonment,96,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0513,2026-08-22 15:45:00,Instagram,PayWave,PayWave,Payment failed again after entering the OTP.,Negative,0.92,Payment Failure,Frustration,164,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0520,2026-08-22 15:45:00,Instagram,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.88,Payment Failure,Anger,190,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0531,2026-08-22 15:45:00,Reddit,PayWave,PayWave,Thinking of switching apps if this keeps happening.,Negative,0.92,Payment Failure,Churn Intent,187,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0526,2026-08-22 15:46:00,YouTube,PayWave,payment_failure,Thinking of switching apps if this keeps happening.,Negative,0.9,Payment Failure,Churn Intent,246,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0530,2026-08-22 15:46:00,Reddit,PayWave,PayWave,Tried paying three times and none of them went through.,Negative,0.88,Payment Failure,Anger,249,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0269,2026-08-22 15:47:00,X,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.98,Streaming,Satisfaction,76,NONE,Normal,0,2026-08-22 15:00
+P0556,2026-08-22 15:47:00,YouTube,StreamBox,outage,Might cancel my subscription if this continues.,Negative,0.96,Outage,Churn Intent,242,INC-STR-01,Growing,1,2026-08-22 15:00
+P0511,2026-08-22 15:48:00,X,PayWave,payment_failure,Payment failed again after entering the OTP.,Negative,0.88,Payment Failure,Frustration,236,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0547,2026-08-22 15:50:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.85,Streaming,Satisfaction,63,NONE,Normal,0,2026-08-22 15:00
+P0498,2026-08-22 15:51:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.96,Payments,Satisfaction,11,NONE,Normal,0,2026-08-22 15:00
+P0516,2026-08-22 15:51:00,X,PayWave,PayWave,Money was deducted but the order still says unpaid.,Negative,0.98,Payment Failure,Anger,203,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0501,2026-08-22 15:51:00,X,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.84,Payments,Concern,16,NONE,Normal,0,2026-08-22 15:00
+P0524,2026-08-22 15:52:00,Instagram,PayWave,payment_failure,Why is my payment stuck on processing?,Negative,0.86,Payment Failure,Frustration,22,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0283,2026-08-22 15:53:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.83,Delivery,Concern,8,NONE,Normal,0,2026-08-22 15:00
+P0279,2026-08-22 15:53:00,Reddit,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.85,Streaming,Satisfaction,29,NONE,Normal,0,2026-08-22 15:00
+P0514,2026-08-22 15:53:00,YouTube,PayWave,PayWave,Money was deducted but the order still says unpaid.,Negative,0.9,Payment Failure,Anger,99,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0288,2026-08-22 15:55:00,Instagram,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.84,Delivery,Concern,49,NONE,Normal,0,2026-08-22 15:00
+P0291,2026-08-22 15:55:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.96,Tracking,Curiosity,36,NONE,Normal,0,2026-08-22 15:00
+P0549,2026-08-22 15:56:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.93,Streaming,Concern,38,NONE,Normal,0,2026-08-22 15:00
+P0273,2026-08-22 15:57:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.95,Streaming,Concern,25,NONE,Normal,0,2026-08-22 15:00
+P0504,2026-08-22 15:58:00,X,PayWave,payment_failure,Money was deducted but the order still says unpaid.,Negative,0.97,Payment Failure,Anger,91,INC-PAY-01,Critical,1,2026-08-22 15:00
+P0552,2026-08-22 15:58:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.88,Streaming,Concern,52,NONE,Normal,0,2026-08-22 15:00
+P0500,2026-08-22 15:58:00,Reddit,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.85,Payments,Concern,7,NONE,Normal,0,2026-08-22 15:00
+P0280,2026-08-22 15:59:00,X,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.96,Streaming,Concern,49,NONE,Normal,0,2026-08-22 15:00
+P0548,2026-08-22 15:59:00,Reddit,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.95,Streaming,Satisfaction,109,NONE,Normal,0,2026-08-22 15:00
+P0654,2026-08-22 16:02:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.85,Delivery,Concern,14,NONE,Normal,0,2026-08-22 16:00
+P0336,2026-08-22 16:03:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.85,Delivery,Satisfaction,78,NONE,Normal,0,2026-08-22 16:00
+P0328,2026-08-22 16:05:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.99,Delivery,Concern,17,NONE,Normal,0,2026-08-22 16:00
+P0319,2026-08-22 16:06:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.89,Streaming,Concern,5,NONE,Normal,0,2026-08-22 16:00
+P0580,2026-08-22 16:08:00,X,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.84,App Crash,Anger,124,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0317,2026-08-22 16:08:00,Reddit,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.86,Streaming,Concern,80,NONE,Normal,0,2026-08-22 16:00
+P0306,2026-08-22 16:09:00,X,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.85,Payments,Concern,9,NONE,Normal,0,2026-08-22 16:00
+P0561,2026-08-22 16:11:00,YouTube,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.88,Streaming,Concern,80,NONE,Normal,0,2026-08-22 16:00
+P0316,2026-08-22 16:13:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.98,Streaming,Concern,73,NONE,Normal,0,2026-08-22 16:00
+P0333,2026-08-22 16:14:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.95,Food Quality,Satisfaction,29,NONE,Normal,0,2026-08-22 16:00
+P0311,2026-08-22 16:15:00,Instagram,StreamBox,StreamBox,The new interface looks clean.,Positive,0.98,UX,Satisfaction,48,NONE,Normal,0,2026-08-22 16:00
+P0331,2026-08-22 16:16:00,Instagram,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.9,Delivery,Satisfaction,17,NONE,Normal,0,2026-08-22 16:00
+P0567,2026-08-22 16:16:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.94,Streaming,Concern,64,NONE,Normal,0,2026-08-22 16:00
+P0575,2026-08-22 16:18:00,Reddit,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.94,App Crash,Anger,52,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0295,2026-08-22 16:18:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.84,Payments,Concern,18,NONE,Normal,0,2026-08-22 16:00
+P0569,2026-08-22 16:19:00,Reddit,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.99,Buffering,Anger,36,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0329,2026-08-22 16:20:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.89,Tracking,Curiosity,5,NONE,Normal,0,2026-08-22 16:00
+P0302,2026-08-22 16:20:00,Instagram,PayWave,ux,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,60,NONE,Normal,0,2026-08-22 16:00
+P0651,2026-08-22 16:20:00,Reddit,FoodRush,FoodRush,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,31,NONE,Normal,0,2026-08-22 16:00
+P0307,2026-08-22 16:20:00,YouTube,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.94,Payments,Concern,24,NONE,Normal,0,2026-08-22 16:00
+P0299,2026-08-22 16:23:00,Instagram,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.95,Payments,Concern,76,NONE,Normal,0,2026-08-22 16:00
+P0656,2026-08-22 16:24:00,YouTube,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.87,Tracking,Curiosity,56,NONE,Normal,0,2026-08-22 16:00
+P0332,2026-08-22 16:25:00,Instagram,FoodRush,food_quality,The food was packed really well.,Positive,0.88,Food Quality,Satisfaction,91,NONE,Normal,0,2026-08-22 16:00
+P0304,2026-08-22 16:26:00,Instagram,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.87,Payments,Satisfaction,86,NONE,Normal,0,2026-08-22 16:00
+P0334,2026-08-22 16:26:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.95,Delivery,Concern,73,NONE,Normal,0,2026-08-22 16:00
+P0577,2026-08-22 16:26:00,Instagram,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.9,Buffering,Anger,86,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0322,2026-08-22 16:26:00,X,StreamBox,ux,The new interface looks clean.,Positive,0.95,UX,Satisfaction,117,NONE,Normal,0,2026-08-22 16:00
+P0310,2026-08-22 16:29:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.92,UX,Satisfaction,55,NONE,Normal,0,2026-08-22 16:00
+P0578,2026-08-22 16:30:00,Reddit,StreamBox,StreamBox,Videos won't load at all for me.,Negative,0.9,Outage,Frustration,168,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0565,2026-08-22 16:30:00,X,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.86,Streaming,Satisfaction,86,NONE,Normal,0,2026-08-22 16:00
+P0320,2026-08-22 16:30:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.87,Streaming,Concern,41,NONE,Normal,0,2026-08-22 16:00
+P0660,2026-08-22 16:30:00,X,FoodRush,FoodRush,My order has been stuck with the driver for an hour.,Negative,0.95,Late Delivery,Frustration,76,INC-FOOD-01,Early Signal,1,2026-08-22 16:00
+P0308,2026-08-22 16:32:00,YouTube,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.91,Payments,Concern,12,NONE,Normal,0,2026-08-22 16:00
+P0579,2026-08-22 16:32:00,Reddit,StreamBox,outage,Is StreamBox down? Nothing is loading.,Negative,0.89,Outage,Concern,155,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0335,2026-08-22 16:33:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.83,Delivery,Satisfaction,100,NONE,Normal,0,2026-08-22 16:00
+P0313,2026-08-22 16:35:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.92,Streaming,Concern,41,NONE,Normal,0,2026-08-22 16:00
+P0655,2026-08-22 16:35:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.97,Delivery,Concern,78,NONE,Normal,0,2026-08-22 16:00
+P0327,2026-08-22 16:36:00,X,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.96,Delivery,Concern,27,NONE,Normal,0,2026-08-22 16:00
+P0297,2026-08-22 16:36:00,X,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.83,Payments,Satisfaction,80,NONE,Normal,0,2026-08-22 16:00
+P0568,2026-08-22 16:37:00,Reddit,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,5,NONE,Normal,0,2026-08-22 16:00
+P0573,2026-08-22 16:37:00,X,StreamBox,StreamBox,Stream keeps buffering every few minutes.,Negative,0.94,Buffering,Frustration,205,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0300,2026-08-22 16:38:00,YouTube,PayWave,PayWave,The app is pretty easy to use.,Positive,0.83,UX,Satisfaction,15,NONE,Normal,0,2026-08-22 16:00
+P0659,2026-08-22 16:38:00,Reddit,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.88,Tracking,Concern,215,INC-FOOD-01,Early Signal,1,2026-08-22 16:00
+P0661,2026-08-22 16:40:00,X,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.98,Tracking,Concern,193,INC-FOOD-01,Early Signal,1,2026-08-22 16:00
+P0318,2026-08-22 16:40:00,X,StreamBox,ux,The new interface looks clean.,Positive,0.88,UX,Satisfaction,22,NONE,Normal,0,2026-08-22 16:00
+P0653,2026-08-22 16:41:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.9,Tracking,Curiosity,24,NONE,Normal,0,2026-08-22 16:00
+P0564,2026-08-22 16:41:00,YouTube,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.97,Streaming,Concern,70,NONE,Normal,0,2026-08-22 16:00
+P0326,2026-08-22 16:41:00,Instagram,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.95,Tracking,Curiosity,28,NONE,Normal,0,2026-08-22 16:00
+P0572,2026-08-22 16:41:00,YouTube,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.89,Buffering,Frustration,86,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0652,2026-08-22 16:42:00,X,FoodRush,FoodRush,The food was packed really well.,Positive,0.85,Food Quality,Satisfaction,116,NONE,Normal,0,2026-08-22 16:00
+P0309,2026-08-22 16:42:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.87,Streaming,Concern,72,NONE,Normal,0,2026-08-22 16:00
+P0657,2026-08-22 16:43:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.93,Tracking,Curiosity,73,NONE,Normal,0,2026-08-22 16:00
+P0576,2026-08-22 16:43:00,Instagram,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.86,App Crash,Anger,76,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0566,2026-08-22 16:45:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.96,Streaming,Concern,59,NONE,Normal,0,2026-08-22 16:00
+P0315,2026-08-22 16:45:00,Reddit,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.93,Streaming,Concern,49,NONE,Normal,0,2026-08-22 16:00
+P0303,2026-08-22 16:45:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.88,Payments,Concern,65,NONE,Normal,0,2026-08-22 16:00
+P0305,2026-08-22 16:46:00,Reddit,PayWave,PayWave,The app is pretty easy to use.,Positive,0.91,UX,Satisfaction,71,NONE,Normal,0,2026-08-22 16:00
+P0296,2026-08-22 16:46:00,Instagram,PayWave,payments,Payment took a little longer than usual.,Neutral,0.83,Payments,Concern,56,NONE,Normal,0,2026-08-22 16:00
+P0562,2026-08-22 16:47:00,Reddit,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.89,Streaming,Concern,41,NONE,Normal,0,2026-08-22 16:00
+P0658,2026-08-22 16:48:00,Reddit,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.87,Delivery,Satisfaction,55,NONE,Normal,0,2026-08-22 16:00
+P0330,2026-08-22 16:48:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,47,NONE,Normal,0,2026-08-22 16:00
+P0298,2026-08-22 16:48:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.99,Payments,Concern,20,NONE,Normal,0,2026-08-22 16:00
+P0312,2026-08-22 16:49:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.87,Streaming,Concern,31,NONE,Normal,0,2026-08-22 16:00
+P0301,2026-08-22 16:51:00,YouTube,PayWave,payments,Payment took a little longer than usual.,Neutral,0.85,Payments,Concern,71,NONE,Normal,0,2026-08-22 16:00
+P0325,2026-08-22 16:54:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.88,Food Quality,Satisfaction,34,NONE,Normal,0,2026-08-22 16:00
+P0563,2026-08-22 16:54:00,X,StreamBox,StreamBox,The new interface looks clean.,Positive,0.94,UX,Satisfaction,92,NONE,Normal,0,2026-08-22 16:00
+P0570,2026-08-22 16:55:00,Instagram,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.85,Outage,Anger,187,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0571,2026-08-22 16:57:00,Reddit,StreamBox,outage,Is StreamBox down? Nothing is loading.,Negative,0.94,Outage,Concern,189,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0314,2026-08-22 16:57:00,YouTube,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.87,Streaming,Concern,49,NONE,Normal,0,2026-08-22 16:00
+P0574,2026-08-22 16:58:00,Instagram,StreamBox,StreamBox,Everyone in the comments seems to be having the same problem.,Negative,0.96,Outage,Concern,96,INC-STR-01,Accelerating,1,2026-08-22 16:00
+P0321,2026-08-22 16:58:00,Reddit,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.98,Streaming,Satisfaction,39,NONE,Normal,0,2026-08-22 16:00
+P0323,2026-08-22 16:59:00,Instagram,FoodRush,food_quality,The food was packed really well.,Positive,0.92,Food Quality,Satisfaction,11,NONE,Normal,0,2026-08-22 16:00
+P0324,2026-08-22 16:59:00,Instagram,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.97,Delivery,Satisfaction,68,NONE,Normal,0,2026-08-22 16:00
+P0603,2026-08-22 17:00:00,X,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.97,Buffering,Frustration,104,INC-STR-01,Spike,1,2026-08-22 17:00
+P0599,2026-08-22 17:00:00,Reddit,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.85,Buffering,Frustration,233,INC-STR-01,Spike,1,2026-08-22 17:00
+P0374,2026-08-22 17:00:00,Reddit,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.91,Tracking,Curiosity,72,NONE,Normal,0,2026-08-22 17:00
+P0582,2026-08-22 17:00:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.92,Streaming,Satisfaction,36,NONE,Normal,0,2026-08-22 17:00
+P0375,2026-08-22 17:01:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.98,Delivery,Concern,27,NONE,Normal,0,2026-08-22 17:00
+P0353,2026-08-22 17:03:00,X,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.83,Streaming,Concern,59,NONE,Normal,0,2026-08-22 17:00
+P0372,2026-08-22 17:04:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.88,Food Quality,Satisfaction,37,NONE,Normal,0,2026-08-22 17:00
+P0377,2026-08-22 17:05:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,56,NONE,Normal,0,2026-08-22 17:00
+P0667,2026-08-22 17:06:00,X,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.98,Delivery,Concern,79,NONE,Normal,0,2026-08-22 17:00
+P0345,2026-08-22 17:07:00,X,PayWave,payments,Payment took a little longer than usual.,Neutral,0.91,Payments,Concern,73,NONE,Normal,0,2026-08-22 17:00
+P0337,2026-08-22 17:07:00,X,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.84,Payments,Concern,79,NONE,Normal,0,2026-08-22 17:00
+P0591,2026-08-22 17:07:00,Instagram,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.95,App Crash,Anger,116,INC-STR-01,Spike,1,2026-08-22 17:00
+P0668,2026-08-22 17:08:00,X,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.93,Delivery,Concern,17,NONE,Normal,0,2026-08-22 17:00
+P0351,2026-08-22 17:08:00,Instagram,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.92,Streaming,Satisfaction,114,NONE,Normal,0,2026-08-22 17:00
+P0355,2026-08-22 17:09:00,Instagram,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.95,Streaming,Concern,53,NONE,Normal,0,2026-08-22 17:00
+P0370,2026-08-22 17:11:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.96,Tracking,Curiosity,72,NONE,Normal,0,2026-08-22 17:00
+P0608,2026-08-22 17:11:00,YouTube,StreamBox,StreamBox,Everyone in the comments seems to be having the same problem.,Negative,0.97,Outage,Concern,176,INC-STR-01,Spike,1,2026-08-22 17:00
+P0358,2026-08-22 17:13:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.96,Streaming,Concern,15,NONE,Normal,0,2026-08-22 17:00
+P0664,2026-08-22 17:13:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.85,Delivery,Concern,70,NONE,Normal,0,2026-08-22 17:00
+P0594,2026-08-22 17:13:00,Reddit,StreamBox,StreamBox,The app crashed three times while I was watching.,Negative,0.93,App Crash,Anger,127,INC-STR-01,Spike,1,2026-08-22 17:00
+P0376,2026-08-22 17:15:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.87,Food Quality,Satisfaction,42,NONE,Normal,0,2026-08-22 17:00
+P0349,2026-08-22 17:15:00,X,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.9,Payments,Satisfaction,22,NONE,Normal,0,2026-08-22 17:00
+P0356,2026-08-22 17:15:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.96,Streaming,Concern,43,NONE,Normal,0,2026-08-22 17:00
+P0350,2026-08-22 17:15:00,Reddit,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.91,Payments,Satisfaction,66,NONE,Normal,0,2026-08-22 17:00
+P0352,2026-08-22 17:15:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.89,Streaming,Concern,23,NONE,Normal,0,2026-08-22 17:00
+P0601,2026-08-22 17:16:00,YouTube,StreamBox,StreamBox,This is the fourth time the stream has stopped.,Negative,0.97,Buffering,Anger,45,INC-STR-01,Spike,1,2026-08-22 17:00
+P0348,2026-08-22 17:17:00,X,PayWave,ux,The app is pretty easy to use.,Positive,0.92,UX,Satisfaction,14,NONE,Normal,0,2026-08-22 17:00
+P0596,2026-08-22 17:18:00,Reddit,StreamBox,StreamBox,Videos won't load at all for me.,Negative,0.92,Outage,Frustration,147,INC-STR-01,Spike,1,2026-08-22 17:00
+P0367,2026-08-22 17:18:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.86,Tracking,Curiosity,30,NONE,Normal,0,2026-08-22 17:00
+P0364,2026-08-22 17:19:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.9,Streaming,Concern,51,NONE,Normal,0,2026-08-22 17:00
+P0361,2026-08-22 17:19:00,Reddit,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.98,Streaming,Concern,32,NONE,Normal,0,2026-08-22 17:00
+P0378,2026-08-22 17:19:00,Reddit,FoodRush,food_quality,The food was packed really well.,Positive,0.88,Food Quality,Satisfaction,21,NONE,Normal,0,2026-08-22 17:00
+P0669,2026-08-22 17:20:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.94,Food Quality,Satisfaction,52,NONE,Normal,0,2026-08-22 17:00
+P0589,2026-08-22 17:22:00,X,StreamBox,outage,Everyone in the comments seems to be having the same problem.,Negative,0.82,Outage,Concern,227,INC-STR-01,Spike,1,2026-08-22 17:00
+P0602,2026-08-22 17:23:00,Instagram,StreamBox,StreamBox,This is the fourth time the stream has stopped.,Negative,0.84,Buffering,Anger,209,INC-STR-01,Spike,1,2026-08-22 17:00
+P0587,2026-08-22 17:24:00,Instagram,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.87,Streaming,Satisfaction,18,NONE,Normal,0,2026-08-22 17:00
+P0344,2026-08-22 17:24:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.93,Payments,Concern,74,NONE,Normal,0,2026-08-22 17:00
+P0605,2026-08-22 17:25:00,YouTube,StreamBox,outage,Might cancel my subscription if this continues.,Negative,0.94,Outage,Churn Intent,233,INC-STR-01,Spike,1,2026-08-22 17:00
+P0593,2026-08-22 17:26:00,YouTube,StreamBox,outage,Videos won't load at all for me.,Negative,0.9,Outage,Frustration,51,INC-STR-01,Spike,1,2026-08-22 17:00
+P0584,2026-08-22 17:27:00,YouTube,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.83,Streaming,Concern,54,NONE,Normal,0,2026-08-22 17:00
+P0588,2026-08-22 17:29:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.88,Streaming,Concern,60,NONE,Normal,0,2026-08-22 17:00
+P0369,2026-08-22 17:29:00,X,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.84,Tracking,Curiosity,50,NONE,Normal,0,2026-08-22 17:00
+P0609,2026-08-22 17:30:00,YouTube,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.89,App Crash,Anger,247,INC-STR-01,Spike,1,2026-08-22 17:00
+P0583,2026-08-22 17:31:00,Reddit,StreamBox,ux,The new interface looks clean.,Positive,0.93,UX,Satisfaction,88,NONE,Normal,0,2026-08-22 17:00
+P0368,2026-08-22 17:31:00,Instagram,FoodRush,food_quality,The food was packed really well.,Positive,0.98,Food Quality,Satisfaction,107,NONE,Normal,0,2026-08-22 17:00
+P0347,2026-08-22 17:34:00,YouTube,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.9,Payments,Concern,34,NONE,Normal,0,2026-08-22 17:00
+P0359,2026-08-22 17:34:00,X,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.93,Streaming,Satisfaction,44,NONE,Normal,0,2026-08-22 17:00
+P0663,2026-08-22 17:34:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.95,Tracking,Curiosity,44,NONE,Normal,0,2026-08-22 17:00
+P0673,2026-08-22 17:35:00,Reddit,FoodRush,FoodRush,This is becoming a complete mess.,Negative,0.96,Late Delivery,Anger,185,INC-FOOD-01,Growing,1,2026-08-22 17:00
+P0598,2026-08-22 17:35:00,YouTube,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.88,Buffering,Frustration,196,INC-STR-01,Spike,1,2026-08-22 17:00
+P0357,2026-08-22 17:35:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.89,Streaming,Satisfaction,81,NONE,Normal,0,2026-08-22 17:00
+P0662,2026-08-22 17:35:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.92,Delivery,Satisfaction,15,NONE,Normal,0,2026-08-22 17:00
+P0363,2026-08-22 17:35:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.91,UX,Satisfaction,58,NONE,Normal,0,2026-08-22 17:00
+P0339,2026-08-22 17:36:00,Reddit,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.93,Payments,Concern,76,NONE,Normal,0,2026-08-22 17:00
+P0670,2026-08-22 17:36:00,Instagram,FoodRush,FoodRush,Third late order this week. Seriously?,Negative,0.82,Late Delivery,Anger,129,INC-FOOD-01,Growing,1,2026-08-22 17:00
+P0366,2026-08-22 17:36:00,X,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.91,Delivery,Satisfaction,12,NONE,Normal,0,2026-08-22 17:00
+P0341,2026-08-22 17:37:00,Reddit,PayWave,ux,The app is pretty easy to use.,Positive,0.94,UX,Satisfaction,64,NONE,Normal,0,2026-08-22 17:00
+P0592,2026-08-22 17:38:00,Reddit,StreamBox,StreamBox,Stream keeps buffering every few minutes.,Negative,0.83,Buffering,Frustration,187,INC-STR-01,Spike,1,2026-08-22 17:00
+P0665,2026-08-22 17:39:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,24,NONE,Normal,0,2026-08-22 17:00
+P0595,2026-08-22 17:39:00,X,StreamBox,StreamBox,This is the fourth time the stream has stopped.,Negative,0.91,Buffering,Anger,232,INC-STR-01,Spike,1,2026-08-22 17:00
+P0586,2026-08-22 17:40:00,X,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.87,Streaming,Satisfaction,98,NONE,Normal,0,2026-08-22 17:00
+P0354,2026-08-22 17:41:00,YouTube,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.94,Streaming,Concern,72,NONE,Normal,0,2026-08-22 17:00
+P0373,2026-08-22 17:42:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.91,Tracking,Curiosity,7,NONE,Normal,0,2026-08-22 17:00
+P0590,2026-08-22 17:46:00,X,StreamBox,StreamBox,Is StreamBox down? Nothing is loading.,Negative,0.92,Outage,Concern,207,INC-STR-01,Spike,1,2026-08-22 17:00
+P0340,2026-08-22 17:46:00,Reddit,PayWave,payments,Payment took a little longer than usual.,Neutral,0.96,Payments,Concern,55,NONE,Normal,0,2026-08-22 17:00
+P0585,2026-08-22 17:46:00,Instagram,StreamBox,StreamBox,The new interface looks clean.,Positive,0.82,UX,Satisfaction,51,NONE,Normal,0,2026-08-22 17:00
+P0362,2026-08-22 17:47:00,YouTube,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.89,Streaming,Satisfaction,99,NONE,Normal,0,2026-08-22 17:00
+P0365,2026-08-22 17:48:00,Instagram,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.87,Tracking,Curiosity,31,NONE,Normal,0,2026-08-22 17:00
+P0581,2026-08-22 17:49:00,Reddit,StreamBox,StreamBox,The new interface looks clean.,Positive,0.87,UX,Satisfaction,52,NONE,Normal,0,2026-08-22 17:00
+P0600,2026-08-22 17:49:00,Reddit,StreamBox,StreamBox,Videos won't load at all for me.,Negative,0.9,Outage,Frustration,85,INC-STR-01,Spike,1,2026-08-22 17:00
+P0343,2026-08-22 17:49:00,YouTube,PayWave,ux,The app is pretty easy to use.,Positive,0.97,UX,Satisfaction,58,NONE,Normal,0,2026-08-22 17:00
+P0671,2026-08-22 17:50:00,X,FoodRush,customer_support,Support hasn't replied about my missing order.,Negative,0.84,Customer Support,Frustration,90,INC-FOOD-01,Growing,1,2026-08-22 17:00
+P0606,2026-08-22 17:51:00,YouTube,StreamBox,StreamBox,Everyone in the comments seems to be having the same problem.,Negative,0.94,Outage,Concern,48,INC-STR-01,Spike,1,2026-08-22 17:00
+P0338,2026-08-22 17:51:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.91,Payments,Concern,63,NONE,Normal,0,2026-08-22 17:00
+P0371,2026-08-22 17:52:00,Reddit,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.96,Delivery,Satisfaction,62,NONE,Normal,0,2026-08-22 17:00
+P0346,2026-08-22 17:53:00,Reddit,PayWave,ux,The app is pretty easy to use.,Positive,0.93,UX,Satisfaction,48,NONE,Normal,0,2026-08-22 17:00
+P0597,2026-08-22 17:53:00,X,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.87,Buffering,Anger,200,INC-STR-01,Spike,1,2026-08-22 17:00
+P0607,2026-08-22 17:54:00,X,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.96,Buffering,Frustration,126,INC-STR-01,Spike,1,2026-08-22 17:00
+P0666,2026-08-22 17:54:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.93,Delivery,Satisfaction,19,NONE,Normal,0,2026-08-22 17:00
+P0675,2026-08-22 17:54:00,Reddit,FoodRush,late_delivery,My order has been stuck with the driver for an hour.,Negative,0.95,Late Delivery,Frustration,168,INC-FOOD-01,Growing,1,2026-08-22 17:00
+P0360,2026-08-22 17:55:00,Reddit,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.9,Streaming,Satisfaction,112,NONE,Normal,0,2026-08-22 17:00
+P0604,2026-08-22 17:56:00,Reddit,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.85,Buffering,Anger,228,INC-STR-01,Spike,1,2026-08-22 17:00
+P0672,2026-08-22 17:56:00,YouTube,FoodRush,late_delivery,I'm considering deleting FoodRush after this.,Negative,0.95,Late Delivery,Churn Intent,134,INC-FOOD-01,Growing,1,2026-08-22 17:00
+P0674,2026-08-22 17:57:00,X,FoodRush,FoodRush,Third late order this week. Seriously?,Negative,0.94,Late Delivery,Anger,207,INC-FOOD-01,Growing,1,2026-08-22 17:00
+P0342,2026-08-22 17:59:00,Reddit,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.89,Payments,Satisfaction,14,NONE,Normal,0,2026-08-22 17:00
+P0420,2026-08-22 18:00:00,X,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.95,Tracking,Curiosity,31,NONE,Normal,0,2026-08-22 18:00
+P0621,2026-08-22 18:00:00,Instagram,StreamBox,outage,Is StreamBox down? Nothing is loading.,Negative,0.91,Outage,Concern,232,INC-STR-01,Critical,1,2026-08-22 18:00
+P0639,2026-08-22 18:00:00,Instagram,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.96,Buffering,Frustration,178,INC-STR-01,Critical,1,2026-08-22 18:00
+P0383,2026-08-22 18:01:00,X,PayWave,PayWave,Payment took a little longer than usual.,Neutral,0.95,Payments,Concern,80,NONE,Normal,0,2026-08-22 18:00
+P0416,2026-08-22 18:01:00,Instagram,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.98,Delivery,Satisfaction,96,NONE,Normal,0,2026-08-22 18:00
+P0690,2026-08-22 18:01:00,X,FoodRush,FoodRush,Everyone seems to be complaining about late deliveries tonight.,Negative,0.84,Late Delivery,Anger,52,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0625,2026-08-22 18:02:00,Reddit,StreamBox,StreamBox,Might cancel my subscription if this continues.,Negative,0.98,Outage,Churn Intent,137,INC-STR-01,Critical,1,2026-08-22 18:00
+P0379,2026-08-22 18:03:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.9,Payments,Concern,26,NONE,Normal,0,2026-08-22 18:00
+P0681,2026-08-22 18:04:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,39,NONE,Normal,0,2026-08-22 18:00
+P0687,2026-08-22 18:04:00,Instagram,FoodRush,FoodRush,Support hasn't replied about my missing order.,Negative,0.85,Customer Support,Frustration,58,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0389,2026-08-22 18:05:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.83,Payments,Concern,36,NONE,Normal,0,2026-08-22 18:00
+P0646,2026-08-22 18:05:00,Instagram,StreamBox,StreamBox,Might cancel my subscription if this continues.,Negative,0.93,Outage,Churn Intent,246,INC-STR-01,Critical,1,2026-08-22 18:00
+P0616,2026-08-22 18:05:00,YouTube,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.84,Streaming,Concern,62,NONE,Normal,0,2026-08-22 18:00
+P0683,2026-08-22 18:06:00,Instagram,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.88,Delivery,Concern,38,NONE,Normal,0,2026-08-22 18:00
+P0623,2026-08-22 18:06:00,Instagram,StreamBox,StreamBox,Might cancel my subscription if this continues.,Negative,0.98,Outage,Churn Intent,68,INC-STR-01,Critical,1,2026-08-22 18:00
+P0413,2026-08-22 18:07:00,X,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.9,Delivery,Satisfaction,49,NONE,Normal,0,2026-08-22 18:00
+P0648,2026-08-22 18:07:00,Instagram,StreamBox,StreamBox,Stream keeps buffering every few minutes.,Negative,0.98,Buffering,Frustration,81,INC-STR-01,Critical,1,2026-08-22 18:00
+P0396,2026-08-22 18:09:00,Reddit,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.87,Streaming,Concern,26,NONE,Normal,0,2026-08-22 18:00
+P0612,2026-08-22 18:09:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.91,Streaming,Concern,6,NONE,Normal,0,2026-08-22 18:00
+P0409,2026-08-22 18:10:00,Reddit,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.98,Delivery,Concern,77,NONE,Normal,0,2026-08-22 18:00
+P0392,2026-08-22 18:11:00,YouTube,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.84,Payments,Satisfaction,81,NONE,Normal,0,2026-08-22 18:00
+P0641,2026-08-22 18:11:00,X,StreamBox,outage,Videos won't load at all for me.,Negative,0.83,Outage,Frustration,50,INC-STR-01,Critical,1,2026-08-22 18:00
+P0636,2026-08-22 18:13:00,Reddit,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.84,Buffering,Anger,228,INC-STR-01,Critical,1,2026-08-22 18:00
+P0624,2026-08-22 18:13:00,YouTube,StreamBox,outage,Might cancel my subscription if this continues.,Negative,0.84,Outage,Churn Intent,203,INC-STR-01,Critical,1,2026-08-22 18:00
+P0381,2026-08-22 18:14:00,X,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.83,Payments,Satisfaction,70,NONE,Normal,0,2026-08-22 18:00
+P0695,2026-08-22 18:14:00,YouTube,FoodRush,FoodRush,FoodRush says delivered but I never received it.,Negative,0.82,Missing Order,Anger,53,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0418,2026-08-22 18:14:00,YouTube,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.93,Tracking,Curiosity,28,NONE,Normal,0,2026-08-22 18:00
+P0406,2026-08-22 18:15:00,Instagram,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.95,Streaming,Concern,24,NONE,Normal,0,2026-08-22 18:00
+P0614,2026-08-22 18:15:00,Instagram,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.91,Streaming,Concern,40,NONE,Normal,0,2026-08-22 18:00
+P0610,2026-08-22 18:16:00,Instagram,StreamBox,StreamBox,Watching my show without any buffering tonight.,Positive,0.99,Streaming,Satisfaction,100,NONE,Normal,0,2026-08-22 18:00
+P0629,2026-08-22 18:18:00,YouTube,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.92,Outage,Anger,55,INC-STR-01,Critical,1,2026-08-22 18:00
+P0635,2026-08-22 18:18:00,Instagram,StreamBox,StreamBox,The app crashed three times while I was watching.,Negative,0.94,App Crash,Anger,234,INC-STR-01,Critical,1,2026-08-22 18:00
+P0391,2026-08-22 18:19:00,YouTube,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.84,Payments,Satisfaction,107,NONE,Normal,0,2026-08-22 18:00
+P0415,2026-08-22 18:20:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.96,Tracking,Curiosity,43,NONE,Normal,0,2026-08-22 18:00
+P0619,2026-08-22 18:21:00,Instagram,StreamBox,StreamBox,Everyone in the comments seems to be having the same problem.,Negative,0.96,Outage,Concern,229,INC-STR-01,Critical,1,2026-08-22 18:00
+P0387,2026-08-22 18:21:00,YouTube,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.95,Payments,Satisfaction,13,NONE,Normal,0,2026-08-22 18:00
+P0412,2026-08-22 18:22:00,Reddit,FoodRush,food_quality,The food was packed really well.,Positive,0.89,Food Quality,Satisfaction,23,NONE,Normal,0,2026-08-22 18:00
+P0393,2026-08-22 18:22:00,Reddit,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.82,Streaming,Satisfaction,120,NONE,Normal,0,2026-08-22 18:00
+P0403,2026-08-22 18:23:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,77,NONE,Normal,0,2026-08-22 18:00
+P0677,2026-08-22 18:23:00,YouTube,FoodRush,food_quality,The food was packed really well.,Positive,0.84,Food Quality,Satisfaction,108,NONE,Normal,0,2026-08-22 18:00
+P0684,2026-08-22 18:23:00,Reddit,FoodRush,late_delivery,Everyone seems to be complaining about late deliveries tonight.,Negative,0.99,Late Delivery,Anger,84,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0647,2026-08-22 18:23:00,Instagram,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.99,Outage,Anger,212,INC-STR-01,Critical,1,2026-08-22 18:00
+P0394,2026-08-22 18:24:00,Reddit,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,76,NONE,Normal,0,2026-08-22 18:00
+P0634,2026-08-22 18:24:00,X,StreamBox,StreamBox,Stream keeps buffering every few minutes.,Negative,0.85,Buffering,Frustration,191,INC-STR-01,Critical,1,2026-08-22 18:00
+P0682,2026-08-22 18:24:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.83,Delivery,Concern,63,NONE,Normal,0,2026-08-22 18:00
+P0390,2026-08-22 18:24:00,X,PayWave,ux,The app is pretty easy to use.,Positive,0.84,UX,Satisfaction,50,NONE,Normal,0,2026-08-22 18:00
+P0649,2026-08-22 18:24:00,Reddit,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.82,Outage,Anger,85,INC-STR-01,Critical,1,2026-08-22 18:00
+P0419,2026-08-22 18:25:00,Reddit,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,30,NONE,Normal,0,2026-08-22 18:00
+P0678,2026-08-22 18:25:00,Instagram,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.96,Delivery,Satisfaction,11,NONE,Normal,0,2026-08-22 18:00
+P0615,2026-08-22 18:25:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.9,Streaming,Concern,15,NONE,Normal,0,2026-08-22 18:00
+P0399,2026-08-22 18:25:00,Instagram,StreamBox,streaming,Watching my show without any buffering tonight.,Positive,0.89,Streaming,Satisfaction,112,NONE,Normal,0,2026-08-22 18:00
+P0407,2026-08-22 18:28:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.91,Delivery,Satisfaction,61,NONE,Normal,0,2026-08-22 18:00
+P0397,2026-08-22 18:30:00,Reddit,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.98,Streaming,Concern,51,NONE,Normal,0,2026-08-22 18:00
+P0401,2026-08-22 18:30:00,Instagram,StreamBox,ux,The new interface looks clean.,Positive,0.87,UX,Satisfaction,60,NONE,Normal,0,2026-08-22 18:00
+P0388,2026-08-22 18:31:00,X,PayWave,payments,Has anyone else noticed the payment screen loading slowly?,Neutral,0.89,Payments,Concern,50,NONE,Normal,0,2026-08-22 18:00
+P0644,2026-08-22 18:31:00,Instagram,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.91,Buffering,Anger,220,INC-STR-01,Critical,1,2026-08-22 18:00
+P0628,2026-08-22 18:32:00,YouTube,StreamBox,StreamBox,Can't watch anything tonight because the service is broken.,Negative,0.87,Outage,Anger,175,INC-STR-01,Critical,1,2026-08-22 18:00
+P0650,2026-08-22 18:32:00,YouTube,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.97,Outage,Anger,31,INC-STR-01,Critical,1,2026-08-22 18:00
+P0386,2026-08-22 18:32:00,Instagram,PayWave,payments,"Payment went through smoothly today, nice and quick.",Positive,0.86,Payments,Satisfaction,22,NONE,Normal,0,2026-08-22 18:00
+P0411,2026-08-22 18:32:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.9,Food Quality,Satisfaction,57,NONE,Normal,0,2026-08-22 18:00
+P0414,2026-08-22 18:33:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.89,Food Quality,Satisfaction,70,NONE,Normal,0,2026-08-22 18:00
+P0685,2026-08-22 18:33:00,YouTube,FoodRush,customer_support,Support hasn't replied about my missing order.,Negative,0.9,Customer Support,Frustration,229,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0645,2026-08-22 18:33:00,Reddit,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.91,App Crash,Anger,60,INC-STR-01,Critical,1,2026-08-22 18:00
+P0417,2026-08-22 18:33:00,X,FoodRush,food_quality,The food was packed really well.,Positive,0.92,Food Quality,Satisfaction,30,NONE,Normal,0,2026-08-22 18:00
+P0626,2026-08-22 18:33:00,Reddit,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.98,Buffering,Frustration,130,INC-STR-01,Critical,1,2026-08-22 18:00
+P0611,2026-08-22 18:33:00,Reddit,StreamBox,StreamBox,Video quality dropped for a minute.,Neutral,0.9,Streaming,Concern,60,NONE,Normal,0,2026-08-22 18:00
+P0642,2026-08-22 18:35:00,Instagram,StreamBox,buffering,This is the fourth time the stream has stopped.,Negative,0.82,Buffering,Anger,61,INC-STR-01,Critical,1,2026-08-22 18:00
+P0620,2026-08-22 18:35:00,YouTube,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.84,Outage,Anger,203,INC-STR-01,Critical,1,2026-08-22 18:00
+P0402,2026-08-22 18:36:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.87,Streaming,Concern,46,NONE,Normal,0,2026-08-22 18:00
+P0692,2026-08-22 18:38:00,Reddit,FoodRush,FoodRush,Everyone seems to be complaining about late deliveries tonight.,Negative,0.9,Late Delivery,Anger,41,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0398,2026-08-22 18:38:00,X,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.84,Streaming,Concern,63,NONE,Normal,0,2026-08-22 18:00
+P0694,2026-08-22 18:39:00,Instagram,FoodRush,late_delivery,Third late order this week. Seriously?,Negative,0.98,Late Delivery,Anger,205,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0380,2026-08-22 18:41:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.97,Payments,Concern,77,NONE,Normal,0,2026-08-22 18:00
+P0688,2026-08-22 18:42:00,X,FoodRush,missing_order,FoodRush says delivered but I never received it.,Negative,0.94,Missing Order,Anger,227,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0689,2026-08-22 18:43:00,YouTube,FoodRush,FoodRush,This is becoming a complete mess.,Negative,0.93,Late Delivery,Anger,73,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0395,2026-08-22 18:43:00,YouTube,StreamBox,ux,The new interface looks clean.,Positive,0.87,UX,Satisfaction,27,NONE,Normal,0,2026-08-22 18:00
+P0633,2026-08-22 18:43:00,Instagram,StreamBox,StreamBox,Might cancel my subscription if this continues.,Negative,0.91,Outage,Churn Intent,226,INC-STR-01,Critical,1,2026-08-22 18:00
+P0385,2026-08-22 18:43:00,Instagram,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.95,Payments,Concern,54,NONE,Normal,0,2026-08-22 18:00
+P0404,2026-08-22 18:43:00,Reddit,StreamBox,StreamBox,The new interface looks clean.,Positive,0.89,UX,Satisfaction,100,NONE,Normal,0,2026-08-22 18:00
+P0382,2026-08-22 18:43:00,Instagram,PayWave,PayWave,"Payment went through smoothly today, nice and quick.",Positive,0.85,Payments,Satisfaction,82,NONE,Normal,0,2026-08-22 18:00
+P0631,2026-08-22 18:43:00,Instagram,StreamBox,StreamBox,This is the fourth time the stream has stopped.,Negative,0.91,Buffering,Anger,201,INC-STR-01,Critical,1,2026-08-22 18:00
+P0627,2026-08-22 18:44:00,X,StreamBox,app_crash,The app crashed three times while I was watching.,Negative,0.93,App Crash,Anger,46,INC-STR-01,Critical,1,2026-08-22 18:00
+P0622,2026-08-22 18:44:00,Reddit,StreamBox,StreamBox,Can't watch anything tonight because the service is broken.,Negative,0.9,Outage,Anger,249,INC-STR-01,Critical,1,2026-08-22 18:00
+P0408,2026-08-22 18:44:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.93,Delivery,Concern,18,NONE,Normal,0,2026-08-22 18:00
+P0632,2026-08-22 18:45:00,Reddit,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.92,Outage,Anger,163,INC-STR-01,Critical,1,2026-08-22 18:00
+P0643,2026-08-22 18:45:00,X,StreamBox,outage,Everyone in the comments seems to be having the same problem.,Negative,0.92,Outage,Concern,59,INC-STR-01,Critical,1,2026-08-22 18:00
+P0680,2026-08-22 18:47:00,YouTube,FoodRush,FoodRush,The food was packed really well.,Positive,0.95,Food Quality,Satisfaction,15,NONE,Normal,0,2026-08-22 18:00
+P0617,2026-08-22 18:47:00,Reddit,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.89,Streaming,Concern,18,NONE,Normal,0,2026-08-22 18:00
+P0637,2026-08-22 18:47:00,YouTube,StreamBox,outage,Is StreamBox down? Nothing is loading.,Negative,0.94,Outage,Concern,150,INC-STR-01,Critical,1,2026-08-22 18:00
+P0640,2026-08-22 18:48:00,X,StreamBox,outage,Can't watch anything tonight because the service is broken.,Negative,0.85,Outage,Anger,95,INC-STR-01,Critical,1,2026-08-22 18:00
+P0679,2026-08-22 18:48:00,X,FoodRush,FoodRush,The food was packed really well.,Positive,0.92,Food Quality,Satisfaction,30,NONE,Normal,0,2026-08-22 18:00
+P0410,2026-08-22 18:50:00,YouTube,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.84,Delivery,Concern,18,NONE,Normal,0,2026-08-22 18:00
+P0400,2026-08-22 18:52:00,X,StreamBox,streaming,Anyone else seeing a little buffering?,Neutral,0.92,Streaming,Concern,43,NONE,Normal,0,2026-08-22 18:00
+P0618,2026-08-22 18:52:00,Reddit,StreamBox,StreamBox,Stream keeps buffering every few minutes.,Negative,0.93,Buffering,Frustration,247,INC-STR-01,Critical,1,2026-08-22 18:00
+P0405,2026-08-22 18:53:00,Reddit,StreamBox,streaming,Video quality dropped for a minute.,Neutral,0.84,Streaming,Concern,57,NONE,Normal,0,2026-08-22 18:00
+P0630,2026-08-22 18:53:00,Instagram,StreamBox,StreamBox,This is the fourth time the stream has stopped.,Negative,0.85,Buffering,Anger,181,INC-STR-01,Critical,1,2026-08-22 18:00
+P0613,2026-08-22 18:54:00,YouTube,StreamBox,StreamBox,Anyone else seeing a little buffering?,Neutral,0.95,Streaming,Concern,26,NONE,Normal,0,2026-08-22 18:00
+P0693,2026-08-22 18:55:00,YouTube,FoodRush,late_delivery,This is becoming a complete mess.,Negative,0.92,Late Delivery,Anger,76,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0686,2026-08-22 18:56:00,Reddit,FoodRush,FoodRush,This is becoming a complete mess.,Negative,0.89,Late Delivery,Anger,245,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0691,2026-08-22 18:57:00,X,FoodRush,late_delivery,My order has been stuck with the driver for an hour.,Negative,0.98,Late Delivery,Frustration,62,INC-FOOD-01,Accelerating,1,2026-08-22 18:00
+P0676,2026-08-22 18:58:00,Reddit,FoodRush,food_quality,The food was packed really well.,Positive,0.93,Food Quality,Satisfaction,43,NONE,Normal,0,2026-08-22 18:00
+P0638,2026-08-22 18:59:00,YouTube,StreamBox,buffering,Stream keeps buffering every few minutes.,Negative,0.98,Buffering,Frustration,126,INC-STR-01,Critical,1,2026-08-22 18:00
+P0384,2026-08-22 18:59:00,Reddit,PayWave,PayWave,Has anyone else noticed the payment screen loading slowly?,Neutral,0.92,Payments,Concern,43,NONE,Normal,0,2026-08-22 18:00
+P0712,2026-08-22 19:00:00,X,FoodRush,FoodRush,This is becoming a complete mess.,Negative,0.83,Late Delivery,Anger,93,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0723,2026-08-22 19:04:00,X,FoodRush,late_delivery,I'm considering deleting FoodRush after this.,Negative,0.86,Late Delivery,Churn Intent,100,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0721,2026-08-22 19:04:00,YouTube,FoodRush,FoodRush,Why does the tracking keep showing the same location?,Negative,0.96,Tracking,Concern,193,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0714,2026-08-22 19:05:00,Instagram,FoodRush,late_delivery,Third late order this week. Seriously?,Negative,0.89,Late Delivery,Anger,110,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0724,2026-08-22 19:11:00,X,FoodRush,FoodRush,Why does the tracking keep showing the same location?,Negative,0.86,Tracking,Concern,208,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0699,2026-08-22 19:14:00,YouTube,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.92,Tracking,Curiosity,53,NONE,Normal,0,2026-08-22 19:00
+P0710,2026-08-22 19:14:00,Instagram,FoodRush,FoodRush,Why does the tracking keep showing the same location?,Negative,0.94,Tracking,Concern,175,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0704,2026-08-22 19:16:00,YouTube,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.99,Tracking,Concern,113,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0706,2026-08-22 19:16:00,Instagram,FoodRush,late_delivery,This is becoming a complete mess.,Negative,0.95,Late Delivery,Anger,108,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0701,2026-08-22 19:18:00,YouTube,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.94,Delivery,Satisfaction,34,NONE,Normal,0,2026-08-22 19:00
+P0716,2026-08-22 19:22:00,Instagram,FoodRush,FoodRush,I'm considering deleting FoodRush after this.,Negative,0.9,Late Delivery,Churn Intent,175,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0722,2026-08-22 19:22:00,Reddit,FoodRush,late_delivery,Everyone seems to be complaining about late deliveries tonight.,Negative,0.84,Late Delivery,Anger,83,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0703,2026-08-22 19:26:00,Instagram,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.89,Delivery,Concern,18,NONE,Normal,0,2026-08-22 19:00
+P0700,2026-08-22 19:27:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.97,Delivery,Satisfaction,71,NONE,Normal,0,2026-08-22 19:00
+P0718,2026-08-22 19:32:00,Instagram,FoodRush,missing_order,FoodRush says delivered but I never received it.,Negative,0.97,Missing Order,Anger,49,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0715,2026-08-22 19:33:00,Reddit,FoodRush,customer_support,Support hasn't replied about my missing order.,Negative,0.94,Customer Support,Frustration,43,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0702,2026-08-22 19:36:00,Reddit,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.93,Delivery,Satisfaction,10,NONE,Normal,0,2026-08-22 19:00
+P0717,2026-08-22 19:36:00,Reddit,FoodRush,late_delivery,Everyone seems to be complaining about late deliveries tonight.,Negative,0.91,Late Delivery,Anger,64,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0713,2026-08-22 19:39:00,X,FoodRush,FoodRush,Support hasn't replied about my missing order.,Negative,0.93,Customer Support,Frustration,112,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0711,2026-08-22 19:39:00,Instagram,FoodRush,FoodRush,Everyone seems to be complaining about late deliveries tonight.,Negative,0.93,Late Delivery,Anger,218,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0719,2026-08-22 19:44:00,YouTube,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.95,Tracking,Concern,164,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0707,2026-08-22 19:47:00,X,FoodRush,FoodRush,FoodRush says delivered but I never received it.,Negative,0.84,Missing Order,Anger,220,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0705,2026-08-22 19:48:00,X,FoodRush,late_delivery,Everyone seems to be complaining about late deliveries tonight.,Negative,0.85,Late Delivery,Anger,161,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0720,2026-08-22 19:49:00,YouTube,FoodRush,FoodRush,I'm considering deleting FoodRush after this.,Negative,0.9,Late Delivery,Churn Intent,249,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0708,2026-08-22 19:50:00,Instagram,FoodRush,FoodRush,Everyone seems to be complaining about late deliveries tonight.,Negative,0.85,Late Delivery,Anger,177,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0709,2026-08-22 19:51:00,Reddit,FoodRush,late_delivery,My order has been stuck with the driver for an hour.,Negative,0.83,Late Delivery,Frustration,140,INC-FOOD-01,Spike,1,2026-08-22 19:00
+P0696,2026-08-22 19:52:00,X,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.9,Tracking,Curiosity,17,NONE,Normal,0,2026-08-22 19:00
+P0697,2026-08-22 19:56:00,Reddit,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.97,Delivery,Satisfaction,71,NONE,Normal,0,2026-08-22 19:00
+P0698,2026-08-22 19:57:00,YouTube,FoodRush,delivery,"Delivery arrived early today, great service.",Positive,0.97,Delivery,Satisfaction,63,NONE,Normal,0,2026-08-22 19:00
+P0745,2026-08-22 20:05:00,X,FoodRush,missing_order,FoodRush says delivered but I never received it.,Negative,0.87,Missing Order,Anger,78,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0751,2026-08-22 20:05:00,YouTube,FoodRush,FoodRush,Third late order this week. Seriously?,Negative,0.95,Late Delivery,Anger,78,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0749,2026-08-22 20:06:00,Reddit,FoodRush,late_delivery,Everyone seems to be complaining about late deliveries tonight.,Negative,0.91,Late Delivery,Anger,244,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0763,2026-08-22 20:07:00,YouTube,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.85,Tracking,Concern,89,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0738,2026-08-22 20:08:00,Instagram,FoodRush,late_delivery,This is becoming a complete mess.,Negative,0.92,Late Delivery,Anger,96,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0726,2026-08-22 20:09:00,Reddit,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.93,Delivery,Concern,20,NONE,Normal,0,2026-08-22 20:00
+P0764,2026-08-22 20:09:00,Reddit,FoodRush,FoodRush,My order has been stuck with the driver for an hour.,Negative,0.99,Late Delivery,Frustration,25,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0733,2026-08-22 20:11:00,Instagram,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.98,Tracking,Concern,88,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0737,2026-08-22 20:12:00,X,FoodRush,FoodRush,Everyone seems to be complaining about late deliveries tonight.,Negative,0.85,Late Delivery,Anger,141,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0761,2026-08-22 20:16:00,Reddit,FoodRush,FoodRush,Support hasn't replied about my missing order.,Negative,0.91,Customer Support,Frustration,180,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0765,2026-08-22 20:17:00,X,FoodRush,FoodRush,Why does the tracking keep showing the same location?,Negative,0.86,Tracking,Concern,206,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0762,2026-08-22 20:18:00,Instagram,FoodRush,FoodRush,Why does the tracking keep showing the same location?,Negative,0.85,Tracking,Concern,68,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0756,2026-08-22 20:19:00,Instagram,FoodRush,FoodRush,This is becoming a complete mess.,Negative,0.87,Late Delivery,Anger,86,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0735,2026-08-22 20:23:00,YouTube,FoodRush,FoodRush,I'm considering deleting FoodRush after this.,Negative,0.92,Late Delivery,Churn Intent,135,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0734,2026-08-22 20:23:00,X,FoodRush,FoodRush,I'm considering deleting FoodRush after this.,Negative,0.89,Late Delivery,Churn Intent,128,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0760,2026-08-22 20:25:00,X,FoodRush,late_delivery,Everyone seems to be complaining about late deliveries tonight.,Negative,0.96,Late Delivery,Anger,203,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0739,2026-08-22 20:25:00,Reddit,FoodRush,FoodRush,My order has been stuck with the driver for an hour.,Negative,0.96,Late Delivery,Frustration,35,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0729,2026-08-22 20:25:00,X,FoodRush,FoodRush,Delivery was about ten minutes late.,Neutral,0.83,Delivery,Concern,78,NONE,Normal,0,2026-08-22 20:00
+P0731,2026-08-22 20:29:00,Reddit,FoodRush,food_quality,The food was packed really well.,Positive,0.94,Food Quality,Satisfaction,68,NONE,Normal,0,2026-08-22 20:00
+P0730,2026-08-22 20:30:00,Reddit,FoodRush,tracking,Has anyone tried their new delivery tracking?,Neutral,0.89,Tracking,Curiosity,69,NONE,Normal,0,2026-08-22 20:00
+P0755,2026-08-22 20:33:00,Instagram,FoodRush,FoodRush,Everyone seems to be complaining about late deliveries tonight.,Negative,0.96,Late Delivery,Anger,143,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0757,2026-08-22 20:33:00,X,FoodRush,late_delivery,My order has been stuck with the driver for an hour.,Negative,0.91,Late Delivery,Frustration,93,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0741,2026-08-22 20:35:00,Instagram,FoodRush,late_delivery,I'm considering deleting FoodRush after this.,Negative,0.84,Late Delivery,Churn Intent,25,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0742,2026-08-22 20:36:00,X,FoodRush,customer_support,Support hasn't replied about my missing order.,Negative,0.93,Customer Support,Frustration,110,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0728,2026-08-22 20:39:00,Instagram,FoodRush,delivery,Delivery was about ten minutes late.,Neutral,0.9,Delivery,Concern,68,NONE,Normal,0,2026-08-22 20:00
+P0727,2026-08-22 20:39:00,Reddit,FoodRush,FoodRush,Has anyone tried their new delivery tracking?,Neutral,0.96,Tracking,Curiosity,74,NONE,Normal,0,2026-08-22 20:00
+P0752,2026-08-22 20:40:00,X,FoodRush,FoodRush,This is becoming a complete mess.,Negative,0.82,Late Delivery,Anger,154,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0732,2026-08-22 20:43:00,X,FoodRush,FoodRush,"Delivery arrived early today, great service.",Positive,0.88,Delivery,Satisfaction,84,NONE,Normal,0,2026-08-22 20:00
+P0754,2026-08-22 20:44:00,X,FoodRush,late_delivery,Third late order this week. Seriously?,Negative,0.93,Late Delivery,Anger,172,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0746,2026-08-22 20:45:00,Instagram,FoodRush,tracking,Why does the tracking keep showing the same location?,Negative,0.95,Tracking,Concern,89,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0748,2026-08-22 20:46:00,X,FoodRush,FoodRush,Third late order this week. Seriously?,Negative,0.86,Late Delivery,Anger,210,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0747,2026-08-22 20:47:00,YouTube,FoodRush,FoodRush,I'm considering deleting FoodRush after this.,Negative,0.97,Late Delivery,Churn Intent,62,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0758,2026-08-22 20:48:00,YouTube,FoodRush,late_delivery,This is becoming a complete mess.,Negative,0.96,Late Delivery,Anger,22,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0750,2026-08-22 20:49:00,YouTube,FoodRush,FoodRush,My order has been stuck with the driver for an hour.,Negative,0.84,Late Delivery,Frustration,215,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0743,2026-08-22 20:49:00,YouTube,FoodRush,late_delivery,This is becoming a complete mess.,Negative,0.9,Late Delivery,Anger,117,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0759,2026-08-22 20:50:00,Reddit,FoodRush,FoodRush,Support hasn't replied about my missing order.,Negative,0.89,Customer Support,Frustration,115,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0736,2026-08-22 20:52:00,Reddit,FoodRush,FoodRush,Support hasn't replied about my missing order.,Negative,0.91,Customer Support,Frustration,225,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0740,2026-08-22 20:53:00,Reddit,FoodRush,late_delivery,This is becoming a complete mess.,Negative,0.86,Late Delivery,Anger,210,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0753,2026-08-22 20:55:00,Instagram,FoodRush,late_delivery,I'm considering deleting FoodRush after this.,Negative,0.91,Late Delivery,Churn Intent,139,INC-FOOD-01,Critical,1,2026-08-22 20:00
+P0725,2026-08-22 20:55:00,Instagram,FoodRush,FoodRush,The food was packed really well.,Positive,0.96,Food Quality,Satisfaction,39,NONE,Normal,0,2026-08-22 20:00
+P0744,2026-08-22 20:55:00,X,FoodRush,late_delivery,Third late order this week. Seriously?,Negative,0.96,Late Delivery,Anger,127,INC-FOOD-01,Critical,1,2026-08-22 20:00
